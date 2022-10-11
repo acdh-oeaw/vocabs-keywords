@@ -1,0 +1,952 @@
+﻿subject;count;ARCHEsourceProperty
+Fernerkundung;2;hasAppliedMethod
+Pottery documentation.;2;hasAppliedMethod
+Virtuelle Rekonstruktion;1;hasAppliedMethod
+X-ray;1;hasAppliedMethod
+pottery documentation, inked drawings;7;hasAppliedMethod
+sediment analysis;1;hasAppliedMethod
+Structure from Motion (SfM);1;hasAppliedMethod
+geomorphological survey;1;hasAppliedMethod
+Archaeological excavation, pottery documentation, photography.;9;hasAppliedMethod
+Photogrammetrie;3;hasAppliedMethod
+Vermessung;1;hasAppliedMethod
+Karten;1;hasAppliedMethod
+photography;4067;hasAppliedMethod
+Laser Scanning;1;hasAppliedMethod
+3D-Modellierung;1;hasAppliedMethod
+CT-scans;4;hasAppliedMethod
+Bauaufnahme;2;hasAppliedMethod
+remote sensing;1;hasAppliedMethod
+Airborne Laserscan;2;hasAppliedMethod
+Georadar;1;hasAppliedMethod
+Terrestrisches Laserscanning (TLS);1;hasAppliedMethod
+geological survey;1;hasAppliedMethod
+3D-Dokumentation;1;hasAppliedMethod
+Survey;2;hasAppliedMethod
+borehole sampling;1;hasAppliedMethod
+tokenization;7;hasAppliedMethod
+3D scanning;1757;hasAppliedMethod
+Satellitenbild;1;hasAppliedMethod
+Geophysik;1;hasAppliedMethod
+Luftbild;2;hasAppliedMethod
+lemmatization;7;hasAppliedMethod
+Part of Speech Tagging;1;hasAppliedMethod
+XML/TEI (P5);7;hasAppliedMethod
+image creation (scanning, photography);1;hasAppliedMethod
+textual annotation;1;hasAppliedMethod
+part-of-speech-tagging;7;hasAppliedMethod
+topographical survey;1;hasAppliedMethod
+XML/TEI structural and semantic annotation;6;hasAppliedMethod
+VOICE, the Vienna-Oxford International Corpus of English, is a one-million-word corpus of naturally-occurring, non-scripted, face-to-face interactions carried out using English as a lingua franca (ELF), i.e. English used as a common means of communication among speakers from different first-language backgrounds. The interactions recorded and transcribed are complete speech events from different domains (educational, leisure, professional) and represent different speech event types (conversation, interview, meeting, panel, press conference, question-answer session, seminar discussion, service encounter, working group discussion, workshop discussion).;7;hasAppliedMethod
+Petrographic analysis.;3;hasAppliedMethod
+data management, data curation;12;hasAppliedMethod
+OCR, XML/TEI structural and semantic annotation;1;hasAppliedMethod
+XML/TEI (P5) encoding;1;hasAppliedMethod
+photography in public;1;hasAppliedMethod
+OberflÃ¤chensurvey;1;hasAppliedMethod
+ArchÃ¤ometrie;1;hasAppliedMethod
+Terrestrischer Laserscan;1;hasAppliedMethod
+structure from motion;4;hasAppliedMethod
+archaeological excavation, pottery documentation, photography;5;hasAppliedMethod
+index file creation;3;hasAppliedMethod
+surface survey;1;hasAppliedMethod
+SKOS data modelling;1;hasAppliedMethod
+scanning;2825;hasAppliedMethod
+Geomagnetik;1;hasAppliedMethod
+OCR;6;hasAppliedMethod
+archaeological excavation;1;hasAppliedMethod
+Photography.;906;hasAppliedMethod
+SKOS Simple Knowledge Organization System;2;hasAppliedMethod
+TEI schema customization;6;hasAppliedMethod
+3d data;;hasCategory
+annotation;;hasCategory
+audio visual;;hasCategory
+collection;;hasCategory
+computational notebook;;hasCategory
+controlled vocabulary;;hasCategory
+corpus;;hasCategory
+dataset;;hasCategory
+GeoJSON Dataset;;hasCategory
+georeferenced image;;hasCategory
+grammar;;hasCategory
+image;;hasCategory
+interactive resource;;hasCategory
+lexical resource;;hasCategory
+model;;hasCategory
+physical object;;hasCategory
+recording session;;hasCategory
+service;;hasCategory
+software;;hasCategory
+sound;;hasCategory
+speech;;hasCategory
+tabular dataset;;hasCategory
+textual annotation;;hasCategory
+workflow;;hasCategory
+XML/TEI;;hasCategory
+Postkarte;44;hasSubject
+Militarismus;9;hasSubject
+spelling conventions;1;hasSubject
+Durchschlag mit handschriftlicher Mitteilung;4;hasSubject
+material culture;2;hasSubject
+archaeological sites;1;hasSubject
+Grabungstagebuch;1;hasSubject
+Fundbearbeitung;2;hasSubject
+deutschÃ¶sterr. Regierung;19;hasSubject
+D.J.KLB;6;hasSubject
+E.F.GEL;2;hasSubject
+question-answer session;32;hasSubject
+D.J.REK;4;hasSubject
+Einspruch;6;hasSubject
+research event;3;hasSubject
+D.K.AAS;2;hasSubject
+Zeugenaussage;11;hasSubject
+T.F.AUS;1;hasSubject
+Klage wegen Forderung;1;hasSubject
+Brief;2293;hasSubject
+Zeitungsartikel;354;hasSubject
+Grand Principality;1;hasSubject
+MÃ¶rtelproben;1;hasSubject
+Mitteilung;37;hasSubject
+R.F.PRE;69;hasSubject
+T.F.UNA;1;hasSubject
+language variation;1;hasSubject
+Mitschriften;2;hasSubject
+D.K.BRF;2293;hasSubject
+IntertextualitÃ¤t;11;hasSubject
+Commissary District;4;hasSubject
+D.J.BRF;12;hasSubject
+T.F.VER;1;hasSubject
+D.J.BIT;22;hasSubject
+PersÃ¶nlichkeitsrechtsverletzung;1;hasSubject
+T.F.FZA;2;hasSubject
+bibliography;7;hasSubject
+Verletzung des Rechts am eigenen Bild;1;hasSubject
+Originalmappe;292;hasSubject
+None;4;hasSubject
+D.J.PKL;100;hasSubject
+D.J.DOS;5;hasSubject
+transcription conventions;2;hasSubject
+Personalkommission;11;hasSubject
+Digitization;1;hasSubject
+Literarischer Text;7;hasSubject
+K.K.THE;12;hasSubject
+privater Buchbesitz;126;hasSubject
+E.F.SUE;1;hasSubject
+Berufungsanmeldung;18;hasSubject
+Vollmacht;12;hasSubject
+Zahlungsauftrag;10;hasSubject
+Protokoll;100;hasSubject
+D.J.LEU;2;hasSubject
+professional business;12;hasSubject
+D.J.ANW;7;hasSubject
+Mitbestimmung;53;hasSubject
+T.F.UNB;1;hasSubject
+multilingualism;788;hasSubject
+lexical resources;1;hasSubject
+D.J.VRZ;12;hasSubject
+D.J.INF;4;hasSubject
+Berichtigung;4;hasSubject
+D.K.AGS;4;hasSubject
+seminar discussion;32;hasSubject
+D.J.EXB;4;hasSubject
+Typoskript mit handschriftlicher Mitteilung;4;hasSubject
+Anweisung;6;hasSubject
+Empire;24;hasSubject
+Berichtigung (Ausgang);39;hasSubject
+D.J.NOT;26;hasSubject
+professional organizational meeting;60;hasSubject
+leisure interview;25;hasSubject
+Disziplinaranzeige;2;hasSubject
+Druck mit handschriftlichen Annotationen;20;hasSubject
+Kingdom;79;hasSubject
+archaeological database;1;hasSubject
+Tonaufnahmen;2;hasSubject
+D.K.TGR;31;hasSubject
+Kongress von Aachen;1;hasSubject
+SÃ¼hne;1;hasSubject
+Pamphlet;3;hasSubject
+Nachricht;6;hasSubject
+D.J.ZVP;2;hasSubject
+Marie Turnowsky;2;hasSubject
+XML;1;hasSubject
+leisure;12;hasSubject
+D.J.GUT;4;hasSubject
+Beamtenrat;3;hasSubject
+Karl Baedeker;13;hasSubject
+Imperial Free City;4;hasSubject
+Congress of Verona;1;hasSubject
+language choice;1;hasSubject
+journalistic prose;1;hasSubject
+Bundespolizeidirektion;1;hasSubject
+D.J.EXA;2;hasSubject
+Kostenbestimmungsbeschluss;6;hasSubject
+AuflÃ¶sung des Vertrags;1;hasSubject
+Disziplinarrecht;5;hasSubject
+D.J.AZG;2;hasSubject
+Fundfotos;1;hasSubject
+D.J.BWA;3;hasSubject
+Konterrevolution;1;hasSubject
+D.P;5;hasSubject
+Bestechung;2;hasSubject
+E.F.FOR;3;hasSubject
+ErklÃ¤rung (jur.);26;hasSubject
+Typoskript;1352;hasSubject
+Vermessung;1;hasSubject
+District;4;hasSubject
+Die Stunde, BÃ©kessy;21;hasSubject
+Ã„uÃŸerung;14;hasSubject
+educational;12;hasSubject
+Schadensersatz;1;hasSubject
+Richard LÃ¡nyi;1;hasSubject
+Inscriptions;1;hasSubject
+Betriebsrat;10;hasSubject
+E.F.AEE;2;hasSubject
+Congress files;1;hasSubject
+S.F.KER;1;hasSubject
+Free City;6;hasSubject
+Verhaftung;1;hasSubject
+Beschlagnahme aufgehoben;1;hasSubject
+Neolithic pottery;1;hasSubject
+BevollmÃ¤chtiger;15;hasSubject
+Gutachten;4;hasSubject
+Beweisantrag;21;hasSubject
+military frontier;1;hasSubject
+Landgraviate;1;hasSubject
+R.F.SON;50;hasSubject
+D.J.TST;2;hasSubject
+Ansuchen;8;hasSubject
+Graf Leo Thun-Hohenstein ;1;hasSubject
+Bauaufnahme;1;hasSubject
+PreÃŸrechtsverstoÃŸ;81;hasSubject
+D.J.KSB;10;hasSubject
+Nachkriegskrise;5;hasSubject
+Electorate;1;hasSubject
+Indiskretion;1;hasSubject
+Briefausgabe;2;hasSubject
+Privatanklage;95;hasSubject
+educational service encounter;25;hasSubject
+Forderung bezahlt;3;hasSubject
+Typoskript mit handschirftlichen Ãœberarbeitungen;67;hasSubject
+inscription;1;hasSubject
+Strafantrag;6;hasSubject
+rockshelter;2;hasSubject
+Aufstellung;8;hasSubject
+Entschuldigung;2;hasSubject
+Auftrag;27;hasSubject
+Mappe, M.S.MAP ;2;hasSubject
+C.S.PRI;135;hasSubject
+GIS;2649;hasSubject
+Gesandtenkonferenz;6;hasSubject
+Archduchy;5;hasSubject
+T.F.BEL;1;hasSubject
+D.L.ABS;3;hasSubject
+E.F.RUE;1;hasSubject
+Abweisung;3;hasSubject
+D.J.ZAS;11;hasSubject
+D.J.RNG;13;hasSubject
+D.J.LAD;87;hasSubject
+Memorandum;5;hasSubject
+zwischenstaatliche Vereinbarung;24;hasSubject
+Zeitun;2;hasSubject
+D.S.LSZ;2;hasSubject
+Publizistisches Dokument;7;hasSubject
+D.J.AKN;8;hasSubject
+Versteigerung;1;hasSubject
+Opferbereitschaft;1;hasSubject
+Marken-/Namensrechtsverletzung;1;hasSubject
+S.F.MAR;2;hasSubject
+Ã„nderung;1;hasSubject
+Military District;5;hasSubject
+Holy Roman Empire;2;hasSubject
+D.J.ERA;2;hasSubject
+Urheberrechtsverletzung (Bel.);1;hasSubject
+Aufforderung;6;hasSubject
+linked open data;5;hasSubject
+Verlagswesen;6;hasSubject
+Aufgabeabschnitt;2;hasSubject
+EhrenkrÃ¤nkung;1;hasSubject
+Pensionierung;109;hasSubject
+Landeskommissariat;23;hasSubject
+Druck mit handschriftliche Annotationen/Notate/Notizen;2;hasSubject
+D.J.ABH;10;hasSubject
+professional research/science question-answer session;30;hasSubject
+EhrenerklÃ¤rung;2;hasSubject
+Abfertigung;3;hasSubject
+AuÃŸergerichtliche Erledigung;48;hasSubject
+Pauperisierung;1;hasSubject
+E.F.ZRW;1;hasSubject
+Jude;3;hasSubject
+Great Powers;1;hasSubject
+Radiogramm;9;hasSubject
+K.K.SCH;10;hasSubject
+Stefan Padajaunig;1;hasSubject
+D.J.AFS;8;hasSubject
+Oskar Samek;1;hasSubject
+Verrechnung;2;hasSubject
+Telegramm;31;hasSubject
+Geschichte des Lesens;126;hasSubject
+D.J.BAF;37;hasSubject
+Bildungsreform;1;hasSubject
+working group discussion;32;hasSubject
+E.F.GBU;4;hasSubject
+settlement;2;hasSubject
+Vergeltung;5;hasSubject
+Congress of Troppau;1;hasSubject
+Edition;2;hasSubject
+Grundbuch;2940;hasSubject
+Systemisierung;5;hasSubject
+PeriodO;1;hasSubject
+digitisation;1;hasSubject
+professional research and science;12;hasSubject
+Gewerkschaft;17;hasSubject
+VorrÃ¼ckung;26;hasSubject
+Anklage;2;hasSubject
+Berufungsbescheid;2;hasSubject
+Liste (korr.);2;hasSubject
+Keramik;21;hasSubject
+Umsiedlung;1;hasSubject
+Gremium;1;hasSubject
+Sonstiger MaterialitÃ¤tstyp;12;hasSubject
+professional organizational workshop discussion;40;hasSubject
+Zahlungsverpflichtung;2;hasSubject
+VerfÃ¼gung;2;hasSubject
+E.F.VER;28;hasSubject
+D.K.UMS;6;hasSubject
+D.J.ZAT;10;hasSubject
+European Concert of Powers;1;hasSubject
+aerial warfare;959;hasSubject
+professional business panel;20;hasSubject
+Beleg (jur.);13;hasSubject
+botany;2;hasSubject
+lemmatization;315;hasSubject
+cave;2;hasSubject
+HÃ¼yÃ¼cektepe;2;hasSubject
+Strafregisterauszug;4;hasSubject
+Lesezeichen;2;hasSubject
+D.J.VRN;32;hasSubject
+Pressedelikt;69;hasSubject
+E.F.ZUR;6;hasSubject
+Profilzeichnungen;1;hasSubject
+T.F.SCH;3;hasSubject
+D.J.ABL;4;hasSubject
+Imperial Circle;40;hasSubject
+Medieval Prosopography;2;hasSubject
+Personalvertretung;26;hasSubject
+Graf Leo Thun-Hohenstein;1;hasSubject
+K.K.LIT;10;hasSubject
+Antrag;160;hasSubject
+D.J.AUG;14;hasSubject
+D.J.EIN;6;hasSubject
+T.F.URV;18;hasSubject
+Urheberrechtsverletzung;18;hasSubject
+Repression;32;hasSubject
+Beleidigung;1;hasSubject
+Nicht verfolgt;10;hasSubject
+unknown adm;1;hasSubject
+group designations;2;hasSubject
+E.F.AEB;39;hasSubject
+C.P.VER;3;hasSubject
+D.J.VRG;2;hasSubject
+press conference;32;hasSubject
+educational seminar discussion;30;hasSubject
+Principality;14;hasSubject
+Tagebuch;3;hasSubject
+E.F.VSE;1;hasSubject
+Kronos-Verlag;1;hasSubject
+D.L.PMP;3;hasSubject
+Congress of Aix-la-chapelle;1;hasSubject
+Phonogrammarchiv;4;hasSubject
+Kongressakten;1;hasSubject
+Vertragsverletzung;4;hasSubject
+Verwaltungsrechtssache;1;hasSubject
+Selbstverwaltung;1;hasSubject
+MÃ¤chtekongress;1;hasSubject
+D.J.AKU;4;hasSubject
+R.F.VER;6;hasSubject
+KÃ¼ndigung;11;hasSubject
+Grand Duchy;12;hasSubject
+GPR;1;hasSubject
+E.F.ABW;3;hasSubject
+K.K.FAC;18;hasSubject
+History of diplomacy;1;hasSubject
+D.J.STZ;84;hasSubject
+Forschungsgeschichte;21;hasSubject
+District Captaincy;590;hasSubject
+K.P.NAT;4;hasSubject
+Anfrage;6;hasSubject
+Entente;5;hasSubject
+T.F.PRE;81;hasSubject
+E.F.VAU;1;hasSubject
+Typoskript mit handschriftlichen Ãœberarbeitungen;155;hasSubject
+D.J.ENW;49;hasSubject
+GedÃ¤chtnisprotokoll;4;hasSubject
+D.J.UBR;29;hasSubject
+Province;75;hasSubject
+GroÃŸdeutsche Volkspartei;1;hasSubject
+Viennese Dialectological School;1;hasSubject
+E.F.ERK;1;hasSubject
+professional research/science working group discussion;5;hasSubject
+Abhandlung;10;hasSubject
+Geschichte;2940;hasSubject
+S.F.RIC;1;hasSubject
+Kostenaufstellung;14;hasSubject
+FÃ¶deralismus;11;hasSubject
+Anklageschrift;17;hasSubject
+Protectorate;2;hasSubject
+D.K.PKT;44;hasSubject
+Karl Kraus;141;hasSubject
+T.F.EUV;1;hasSubject
+Druck mit handschriftlichen Ãœberarbeitungen;5;hasSubject
+Unautorisierte AuffÃ¼hrung;1;hasSubject
+D.S.FOT;4;hasSubject
+D.K.PAW;4;hasSubject
+Revisionsschrift;2;hasSubject
+D.J.KFS;40;hasSubject
+Aufruf;2;hasSubject
+Republic;6;hasSubject
+conversation;32;hasSubject
+Bronze Age sites;1;hasSubject
+leisure conversation;105;hasSubject
+TEI-schema;1;hasSubject
+Disziplinarausschuss;3;hasSubject
+BundeslÃ¤nder;11;hasSubject
+interview;32;hasSubject
+Congress of Laibach;1;hasSubject
+Freispruch;14;hasSubject
+Chalcholithic sites;1;hasSubject
+language mapping;1;hasSubject
+D.J.RVS;2;hasSubject
+D.J.AFD;6;hasSubject
+D.J.VRS;43;hasSubject
+Zivilrecht;18;hasSubject
+D.J.BSD;15;hasSubject
+Verwaltung;65;hasSubject
+D.J.DKB;12;hasSubject
+D.J.SAT;6;hasSubject
+educational workshop discussion;50;hasSubject
+Staatsangestelltenkammer;10;hasSubject
+tschechoslowak. Staatsdienst;39;hasSubject
+Ungleichbehandlung;10;hasSubject
+Landgericht;591;hasSubject
+D.J.BRS;6;hasSubject
+Auszug;2;hasSubject
+D.J.KBS;6;hasSubject
+Lagervorstadt;21;hasSubject
+Princely County;5;hasSubject
+Schweiz;1;hasSubject
+Exekutionsausweis;2;hasSubject
+City District;1;hasSubject
+Anklage-Kundmachung;4;hasSubject
+D.J.VLB;2;hasSubject
+K.K.STU;21;hasSubject
+D.J.KSZ;5;hasSubject
+Legionslager;21;hasSubject
+D.J.SRA;4;hasSubject
+CIDOC CRM;4;hasSubject
+D.J.STG;2;hasSubject
+C.K.KOR;5;hasSubject
+Literaturwissenschaft;11;hasSubject
+D.J.BST;15;hasSubject
+Lothar RÃ¼belt;1;hasSubject
+schema;1;hasSubject
+Personalpolitik;3;hasSubject
+professional research/science conversation;35;hasSubject
+Information;4;hasSubject
+D.J.AUB;2;hasSubject
+LebensumstÃ¤nde;5;hasSubject
+Politische Organisierung;3;hasSubject
+professional organizational press conference;25;hasSubject
+C.Z.UNS;5;hasSubject
+Expensen-Note;2;hasSubject
+professional business service encounter;30;hasSubject
+D.J.SFE;26;hasSubject
+Verleumdung;1;hasSubject
+Verwaltungsrecht;6;hasSubject
+meeting;32;hasSubject
+D.J.VER;9;hasSubject
+Politische VerhÃ¤ltnisse;4;hasSubject
+TEI schema;3;hasSubject
+Verzeichnis;12;hasSubject
+D.K.LIS;2;hasSubject
+Manuskript mit handschriftlichen Annotationen;4;hasSubject
+Eingestellt;5;hasSubject
+Vertrag;9;hasSubject
+Anweisun;2;hasSubject
+Congress of Vienna;1;hasSubject
+Berliner Tageblatt, Kerr, Wolff;9;hasSubject
+D.J.ANZ;4;hasSubject
+S.F.SAM;1;hasSubject
+Konzept (jur.);10;hasSubject
+Stadtgericht;3;hasSubject
+Zensur;5;hasSubject
+Beschluss;182;hasSubject
+Rekurs;4;hasSubject
+D.J.BEN;108;hasSubject
+linguistic landscape;1;hasSubject
+County (administrative unit);71;hasSubject
+Concert of Europe;1;hasSubject
+Governmental District;62;hasSubject
+Originalumschlag;44;hasSubject
+MÃ¤chtekonzert;1;hasSubject
+Versammlung;2;hasSubject
+NationalitÃ¤t;5;hasSubject
+interculturality;787;hasSubject
+Sozialdemokratie;19;hasSubject
+Kostenfestsetzung;40;hasSubject
+D.J.BWN;21;hasSubject
+T.F.VBR;4;hasSubject
+Staatsbedienstetenorganisationen;25;hasSubject
+Entwurf;2;hasSubject
+Die Fackel;18;hasSubject
+quarry;2;hasSubject
+3D models;1;hasSubject
+Plakat;2;hasSubject
+D.J.EGE;4;hasSubject
+Ausgang unklar;30;hasSubject
+Gesteinsproben;1;hasSubject
+workshop discussion;32;hasSubject
+Literarisches Werk;2;hasSubject
+D.K.RAD;9;hasSubject
+Korrespondenz;7;hasSubject
+Schober, 15. Juli 1927;10;hasSubject
+KlagrÃ¼ckziehung;6;hasSubject
+Suburb;34;hasSubject
+Canabae;21;hasSubject
+T.F.DRO;1;hasSubject
+S.F.FRI;2;hasSubject
+Staatsbediensteten-Kommission;1;hasSubject
+Ausbleiben der RÃ¼ckzahlung;1;hasSubject
+T.F.GDR;1;hasSubject
+Crown Colony;5;hasSubject
+D.S.PGH;4;hasSubject
+Unstreitige Zivilrechtssache;5;hasSubject
+Typoskript mit handschriftlichen Ã„nderungen;2;hasSubject
+Kommissionsbezirk der Provinzstadt;8;hasSubject
+Schuldrecht;3;hasSubject
+D.J.MAP;292;hasSubject
+Middle Ages;2;hasSubject
+S.F.BPD;1;hasSubject
+Mitschrift;2;hasSubject
+spelling;1;hasSubject
+D.J.LIS;9;hasSubject
+Beamtenorganisation;20;hasSubject
+mark-up;1;hasSubject
+Bekanntgabe;4;hasSubject
+Scheitern der Exekution;1;hasSubject
+D.J.GTS;6;hasSubject
+Verlassenschaftsabhandlung;2;hasSubject
+educational interview;25;hasSubject
+Margraviate;4;hasSubject
+word tokenization;157;hasSubject
+C.Z.STR;12;hasSubject
+manual;1;hasSubject
+Vertragsbruch;4;hasSubject
+Bundesverfassung;4;hasSubject
+D.J.URT;109;hasSubject
+Magnetik;1;hasSubject
+E.F.HON;1;hasSubject
+E.F.AUF;1;hasSubject
+Demokratisierung;46;hasSubject
+D.J.ZST;3;hasSubject
+TagebÃ¼cher;2;hasSubject
+zwischenstaatliche Verhandlung;32;hasSubject
+Unbefugte Kolportage;1;hasSubject
+D.J.RVA;2;hasSubject
+D.J.UBW;2;hasSubject
+Politische MaÃŸregelung;1;hasSubject
+Straferkenntnis;6;hasSubject
+D.J.SVA;4;hasSubject
+D.K.RKS;78;hasSubject
+Ruhestand;26;hasSubject
+Streitige Zivilrechtssache;12;hasSubject
+cemetery;2;hasSubject
+Versetzung auÃŸerhalb Wiens;1;hasSubject
+Aktenvermerk;201;hasSubject
+amtsfreie Stadt;68;hasSubject
+D.L;7;hasSubject
+ErhaltsbestÃ¤tigung;41;hasSubject
+Politische Parteien;6;hasSubject
+Neolithic Greece and Anatolia;7;hasSubject
+Versicherung;7;hasSubject
+Internationales Postrecht;2;hasSubject
+"25er-Ausschuss; FÃ¼nfundzwanziger-Ausschuss";1;hasSubject
+E.F.FRE;14;hasSubject
+capacity;4;hasSubject
+pottery studies;2;hasSubject
+T.F.MNR;1;hasSubject
+S.F.LIE;1;hasSubject
+T.F.NAC;1;hasSubject
+artefact;2;hasSubject
+Gedicht;2;hasSubject
+grave;2;hasSubject
+Einigung;1;hasSubject
+Papal State;3;hasSubject
+Monarchenkongresse;1;hasSubject
+E.F.AEI;1;hasSubject
+Postanweisung;4;hasSubject
+post-colonial;1;hasSubject
+Confederation;2;hasSubject
+Congress System;1;hasSubject
+Darlehen zurÃ¼ckbezahlt;1;hasSubject
+Lohnforderung;26;hasSubject
+transcription;1;hasSubject
+Deckblatt;12;hasSubject
+Kreis;63;hasSubject
+site and monument;1;hasSubject
+Durchschlag;1581;hasSubject
+semantic technologies;3;hasSubject
+data model;1;hasSubject
+D.J.BSW;32;hasSubject
+T.F.RUF;1;hasSubject
+Gericht;29;hasSubject
+data integration;6;hasSubject
+Zeitung;9;hasSubject
+Selbstbestimmungsrecht;4;hasSubject
+Seat;14;hasSubject
+Abschrift (lit.);3;hasSubject
+R.F.PRI;9;hasSubject
+Typoskript mit handschriftlichen Mittelung;9;hasSubject
+D.J.VRF;2;hasSubject
+Berichtigung (jur.);24;hasSubject
+E.F.DAR;1;hasSubject
+Fotografie (Mat.);6;hasSubject
+small finds;4;hasSubject
+D.J.AKS;17;hasSubject
+Fortbildung;4;hasSubject
+data sharing;2;hasSubject
+Benachrichtigung;108;hasSubject
+Lohnverhandlung;9;hasSubject
+Vernehmung;32;hasSubject
+Schloss;1;hasSubject
+S.F.PAD;1;hasSubject
+Medieval Austria;2;hasSubject
+D.J.VOL;12;hasSubject
+Typoskript mit sonstigen Schreibspuren;4;hasSubject
+BestÃ¤tigung;15;hasSubject
+Karten;1;hasSubject
+historical travel guides;13;hasSubject
+D.J.EXN;2;hasSubject
+Luftkrieg;2;hasSubject
+D.J.ZUN;10;hasSubject
+D.K.NCH;6;hasSubject
+Mining Captaincy;4;hasSubject
+Leumundsnote;2;hasSubject
+T.F.BES;2;hasSubject
+Arabic linguistics;1;hasSubject
+BÃ¼rgerkrieg;3;hasSubject
+BefÃ¶rderungsdienstfrist;1;hasSubject
+K.P.SOZ;19;hasSubject
+Dossier;5;hasSubject
+Surveyartefakte;21;hasSubject
+Military Frontier;8;hasSubject
+sights;2;hasSubject
+K.P.CHR;3;hasSubject
+Typoskript mit handschriftlichen Annotationen;184;hasSubject
+T.F.UPL;1;hasSubject
+Digital Edition;1;hasSubject
+interaction;787;hasSubject
+mark-up conventions;1;hasSubject
+Gemeindewahlrecht;9;hasSubject
+Entwurf (jur.);49;hasSubject
+D.J.BEL;13;hasSubject
+Mandat (politisches);2;hasSubject
+Ãœberweisungsbeschluss;2;hasSubject
+professional research/science panel;30;hasSubject
+Pressrecht;69;hasSubject
+D.S.PLK;2;hasSubject
+historic administrative units;2650;hasSubject
+E.F.BES;1;hasSubject
+professional organizational conversation;15;hasSubject
+D.J.BAN;18;hasSubject
+Autonomie;3;hasSubject
+Fotografie;2;hasSubject
+shape;4;hasSubject
+ZurÃ¼ckziehung der Klage;6;hasSubject
+Kongress von Troppau;1;hasSubject
+Umschlag;48;hasSubject
+Anzeige;4;hasSubject
+D.J.STZ ;2;hasSubject
+Genfer Protokolle;1;hasSubject
+Country;3;hasSubject
+Liste (jur.);7;hasSubject
+T.F.ERP;3;hasSubject
+Austrian newspapers;1;hasSubject
+E.F.VGL;14;hasSubject
+Durchschlag mit sonstigen Schreibspuren;2;hasSubject
+controlled vocabulary;1;hasSubject
+S.F.KRA;141;hasSubject
+BefÃ¶rderung;16;hasSubject
+Versetzung;7;hasSubject
+Siedlungstopographie;21;hasSubject
+ZurÃ¼ckweisung;1;hasSubject
+Revisionsbeantwortung;2;hasSubject
+Hans LiebstÃ¶ckl;1;hasSubject
+Kongress von Verona;1;hasSubject
+Klagebeantwortung;6;hasSubject
+TEI;1;hasSubject
+T.F.EHK;1;hasSubject
+professional research/science interview;30;hasSubject
+Notiz;26;hasSubject
+franzÃ¶sische Regierung;1;hasSubject
+Koalitionsrecht;1;hasSubject
+Manuskript mit handschriftlicher Mitteilung;2;hasSubject
+Durchschlag mit handschriftlichen Ãœberarbeitungen;208;hasSubject
+D.J.ZEB;9;hasSubject
+Imre BÃ©kessy;1;hasSubject
+Austrian Press Agency;1;hasSubject
+D.J.AKT;2;hasSubject
+Neolithic sites;1;hasSubject
+GefÃ¤hrliche Drohung;1;hasSubject
+educational working group discussion;25;hasSubject
+T.F.REB;1;hasSubject
+pottery;361;hasSubject
+Quarter;4;hasSubject
+K.K.VER;6;hasSubject
+Second world war;959;hasSubject
+Ontologie;2;hasSubject
+FachprÃ¼fung;1;hasSubject
+D.J.BER;10;hasSubject
+Ehrenbeleidigung;35;hasSubject
+Privatanklagedelikt;135;hasSubject
+D.J.KON;10;hasSubject
+search manual;1;hasSubject
+Austrian magazines;1;hasSubject
+High-Bailiwick;14;hasSubject
+D.J.ENT;2;hasSubject
+D.P.ZTG;14;hasSubject
+Fotografien;11;hasSubject
+panel;32;hasSubject
+pottery fragments;11805;hasSubject
+T.F.PER;1;hasSubject
+Schriftsatz;84;hasSubject
+D.J.ARF;2;hasSubject
+D.J.MIT;37;hasSubject
+Geldstrafe;2;hasSubject
+Plagiat;1;hasSubject
+Laufbahn (Folgen);1;hasSubject
+D.J.RUK;6;hasSubject
+Staatsangestelltenrat;6;hasSubject
+E.F.NIC;10;hasSubject
+Condominium;4;hasSubject
+English as a lingua franca;787;hasSubject
+Erpressung;3;hasSubject
+fieldwork archive;2;hasSubject
+RÃ¼ckschein;78;hasSubject
+Bescheid;15;hasSubject
+Zustellung;3;hasSubject
+Strafanzeige;22;hasSubject
+T.F.VVL;4;hasSubject
+Zwischenkriegszeit;958;hasSubject
+E.F.AGE;48;hasSubject
+tschechoslowakisches MilitÃ¤r;1;hasSubject
+Medienwissenschaft;11;hasSubject
+Eingabe;4;hasSubject
+Verlautbarung;2;hasSubject
+D.P.ZTA;352;hasSubject
+Bibliography;2;hasSubject
+Military Government;1;hasSubject
+Friedensverhandlungen;10;hasSubject
+Abrechnung;7;hasSubject
+D.J;3;hasSubject
+written language in public space;1;hasSubject
+Tirol;7;hasSubject
+Protest;2;hasSubject
+Strafverfahrensakt;4;hasSubject
+ZahlungseingangsbestÃ¤tigung;9;hasSubject
+E.F.SCH;1;hasSubject
+Durchschlag mit handschriftlichen Annotationen;185;hasSubject
+D.J.UMS;44;hasSubject
+Rechtsgeschichte;11;hasSubject
+Duchy;33;hasSubject
+Ausbildung;11;hasSubject
+County;177;hasSubject
+Beschwerde;32;hasSubject
+thesaurus;3;hasSubject
+C.S.PRE;69;hasSubject
+Ladung;87;hasSubject
+Occupied Territory;2;hasSubject
+D.J.BEK;4;hasSubject
+D.J.ANK;2;hasSubject
+Soziale FÃ¼rsorge;2;hasSubject
+Pfleggericht;3;hasSubject
+Sonstiger Rechtsbereich;50;hasSubject
+Provincial Government;5;hasSubject
+D.J.BEB;2;hasSubject
+Liste;2;hasSubject
+Kongress von Laibach;1;hasSubject
+professional organizational;12;hasSubject
+D.J.MST;4;hasSubject
+ArbeiterrÃ¤tin;4;hasSubject
+Alfred Kerr;1;hasSubject
+Exekutionsbewilligung;4;hasSubject
+C.V.VER;1;hasSubject
+Ãœbersetzung;29;hasSubject
+Munizipium;21;hasSubject
+Qualifikationsbeschwerde;1;hasSubject
+ErÃ¶erterung;2;hasSubject
+D.J.AUF;27;hasSubject
+Ernennung;13;hasSubject
+TLS;1;hasSubject
+S.F.PIS;1;hasSubject
+D.J.VFB;4;hasSubject
+D.J.KOB;14;hasSubject
+Geist (moderner);3;hasSubject
+ZurÃ¼ckweisung (jur.);2;hasSubject
+ZurÃ¼cknahme;10;hasSubject
+polyglot dictionary;8;hasSubject
+Diplomatiegeschichte;1;hasSubject
+D.J.ABR;7;hasSubject
+Urteil;109;hasSubject
+Ablehnung;4;hasSubject
+ErgÃ¤nzung;16;hasSubject
+Commissariat;2;hasSubject
+AktenÃ¼bersicht;2;hasSubject
+D.J.RMA;2;hasSubject
+RÃ¼ckzahlung;1;hasSubject
+Honorar;1;hasSubject
+Order of the Golden Fleece;2;hasSubject
+Fundzeichnungen;1;hasSubject
+data;1;hasSubject
+Vikariat;4;hasSubject
+Akt;2;hasSubject
+Sozialgeschichte;7;hasSubject
+Transkribus;1;hasSubject
+Archivrecherchen;21;hasSubject
+Programmheft;4;hasSubject
+Ã–sterreich 1849-1860;1;hasSubject
+D.J.KSN;2;hasSubject
+Theater;12;hasSubject
+Statutory City;42;hasSubject
+HÃ¼gelgrÃ¤ber;21;hasSubject
+YeldeÄŸirmentepe;2;hasSubject
+function;4;hasSubject
+VerfÃ¼gungsbogen;4;hasSubject
+Marktgericht;2;hasSubject
+18. Jahrhundert;7;hasSubject
+part-of-speech tagging;317;hasSubject
+Historical Network Research;2;hasSubject
+Beweisabschluss;3;hasSubject
+Kostennote;2;hasSubject
+Bezirksamt;318;hasSubject
+D.J.ANF;6;hasSubject
+Rechnung;13;hasSubject
+tschechoslowakische Regierung;5;hasSubject
+R.F.ZIV;18;hasSubject
+Staatsvertrag (St. Germain);4;hasSubject
+Crownland;7;hasSubject
+Vergleich (Ausgang);14;hasSubject
+Griechenland;13;hasSubject
+Buchgeschichte;126;hasSubject
+Druck;690;hasSubject
+Falsche Zeugenaussage;2;hasSubject
+ontology;2;hasSubject
+BerufungsausfÃ¼hrung;37;hasSubject
+Hofgericht;8;hasSubject
+T.F.IND;1;hasSubject
+D.J.GPK;4;hasSubject
+D.K.EBS;41;hasSubject
+K.K.MED;13;hasSubject
+Friedrich Austerlitz;2;hasSubject
+online site database;9;hasSubject
+Strafrecht;134;hasSubject
+Streik;21;hasSubject
+Mappe;296;hasSubject
+D.J.AKV;201;hasSubject
+Aktennotiz;8;hasSubject
+Fotografie (Obj.);2;hasSubject
+Testament;2;hasSubject
+Berufung;12;hasSubject
+D.J.ERO;2;hasSubject
+D.J.ZRW;2;hasSubject
+E.F.EIN;5;hasSubject
+Laufbahn;1;hasSubject
+Constituent Entity;3;hasSubject
+Burgfrieden;10;hasSubject
+R.F.STR;134;hasSubject
+D.J.VSR;7;hasSubject
+Medienhistorisches;13;hasSubject
+Bibliographie;7;hasSubject
+language contact;1;hasSubject
+Wiener Kongress;1;hasSubject
+D.J.BRG;28;hasSubject
+D.J.DAN;2;hasSubject
+Lesbos;13;hasSubject
+service encounter;32;hasSubject
+open data;1;hasSubject
+ErklÃ¤rung (Ausgang);1;hasSubject
+D.J.MEM;4;hasSubject
+VertrauensmÃ¤nner;7;hasSubject
+Glacis;1;hasSubject
+Manuskript;256;hasSubject
+High Commissariat;1;hasSubject
+Kopie;223;hasSubject
+D.L.GED;2;hasSubject
+S.F.KRO;1;hasSubject
+KassabestÃ¤tigung;10;hasSubject
+RufschÃ¤digung;1;hasSubject
+Privatrecht;9;hasSubject
+Austrian press releases;1;hasSubject
+Ausschuss;1;hasSubject
+Christlich-sozial;3;hasSubject
+professional business meeting;40;hasSubject
+Personalrat;2;hasSubject
+Koalitionsfreiheit;16;hasSubject
+Literarische Berichtigung;10;hasSubject
+Medieval Germany;2;hasSubject
+Ãœberweisung;2;hasSubject
+Vereins- und Versammlungsfreiheit;2;hasSubject
+D.J.ANT;160;hasSubject
+D.J.ERK;26;hasSubject
+Hofmark;6;hasSubject
+D.J.KLG;28;hasSubject
+Lokalpolitik;2;hasSubject
+VerstÃ¤ndigung;43;hasSubject
+Briefumschlag;2;hasSubject
+Co-Principality;1;hasSubject
+educational conversation;20;hasSubject
+Byzantinische Burg;21;hasSubject
+S.F.RUE;1;hasSubject
+Klage;28;hasSubject
+K.K.BER;9;hasSubject
+Erlagschein;14;hasSubject
+D.J.UBS;2;hasSubject
+Privatrechtliche Vereinbarung;3;hasSubject
+Voivodeship;1;hasSubject
+T.F.KWF;1;hasSubject
+Bitte;22;hasSubject
+Wasserversorgung;21;hasSubject
+Austrian media landscape;1;hasSubject
+Juristisches Dokument;3;hasSubject
+Aufgabeschein;4;hasSubject
+D.J.ANS;8;hasSubject
+D.J.PKG;95;hasSubject
+Rechtsnachfolge;7;hasSubject
+Nationalsozialismus;4;hasSubject
+Gutschrift;6;hasSubject
+Kassazettel;5;hasSubject
+Richard Smetana;1;hasSubject
+D.J.ERG;16;hasSubject
+Zweiter Weltkrieg;2;hasSubject
+S.F.SME;1;hasSubject
+Drohung;1;hasSubject
+E.F.AUS;30;hasSubject
+Verurteilung;28;hasSubject
+lithics;2;hasSubject
+Bericht;10;hasSubject
+Ersatzanspruch;2;hasSubject
+Nachrede;1;hasSubject
+professional business conversation;5;hasSubject
+professional organizational working group discussion;65;hasSubject
+professional business question-answer session;20;hasSubject
+S.F.BEK;1;hasSubject
+GeldbuÃŸe;4;hasSubject
+Rechtsmittelanmeldung;2;hasSubject
+Squeezes;2;hasSubject
+D.J.EEK;2;hasSubject
+Berufungsschrift;6;hasSubject
+Paul Amadeus Pisk;1;hasSubject
+T.F.EHR;35;hasSubject
+Nekropole;21;hasSubject
+D.J.BSS;182;hasSubject
+tag set;1;hasSubject
+D.J.ERL;14;hasSubject
