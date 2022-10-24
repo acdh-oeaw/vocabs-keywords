@@ -1,0 +1,114 @@
+﻿Tag;Sprache;Kategorie;ID
+Geschichte;de;Disziplin;1
+Archäologie;de;Disziplin;2
+Kunstgeschichte;de;Disziplin;3
+Kulturerbe;de;Disziplin;4
+Geschlechter Studien;de;Disziplin;5
+Linguistik;de;Disziplin;6
+Sprachwissenschaften;de;Disziplin;7
+Musikologie;de;Disziplin;8
+Germanistik;de;Disziplin;9
+Mediävistik;de;Disziplin;10
+Klassische Philologie;de;Disziplin;11
+Alte Geschichte;de;Disziplin;12
+Sozialwissenschaften;de;Disziplin;13
+Philosophie;de;Disziplin;14
+Museum;de;Disziplin;15
+Numismatik;de;Disziplin;16
+Mathematik;de;Disziplin;17
+Kunst ;de;Disziplin;18
+Theologie;de;Disziplin;19
+Historische Hilfswissenschaften;de;Disziplin;20
+History;en;Disziplin;1
+Archaeology;en;Disziplin;2
+Art History;en;Disziplin;3
+Cultural Hertitage;en;Disziplin;4
+Gender Studies;en;Disziplin;5
+Lingustics;en;Disziplin;6
+Language Studies;en;Disziplin;7
+Musicology;en;Disziplin;8
+German Studies;en;Disziplin;9
+Medieval Studies;en;Disziplin;10
+Classics;en;Disziplin;11
+Ancient history;en;Disziplin;12
+Social Studies;en;Disziplin;13
+Philosophy;en;Disziplin;14
+Museum;en;Disziplin;15
+numismatics;en;Disziplin;16
+Maths;en;Disziplin;17
+Art;en;Disziplin;18
+Theology;en;Disziplin;19
+Historical Auxiliary Sciences;en;Disziplin;20
+Literatur;de;Thema;21
+Didaktik;de;Thema;22
+Lyrik;de;Thema;23
+Inschriften;de;Thema;24
+Author/Schriftsteller;de;Thema;25
+Liturgie;de;Thema;26
+Heilige;de;Thema;27
+Feste;de;Thema;28
+Prosopographie;de;Thema;29
+Numismatik;de;Thema;30
+Diplomatik;de;Thema;31
+Paleografie;de;Thema;32
+Essen;de;Thema;33
+Diplomatie;de;Thema;34
+Literature;en;Thema;21
+Didactics;en;Thema;22
+Lyric Poetry;en;Thema;23
+Inscriptions;en;Thema;24
+Author/Novelistliturgy;en;Thema;25
+Liturgy;en;Thema;26
+Saints;en;Thema;27
+feasts;en;Thema;28
+Prosopography;en;Thema;29
+Numismatics;en;Thema;30
+Diplomatics;en;Thema;31
+Paleography;en;Thema;32
+Food;en;Thema;33
+diplomacy;en;Thema;34
+Briefe;de;Quellenmaterial;35
+Rechnungsbücher;de;Quellenmaterial;36
+Kochrezepte;de;Quellenmaterial;37
+Handschrift;de;Quellenmaterial;38
+Steuerverzeichnisse;de;Quellenmaterial;39
+Schriften;de;Quellenmaterial;40
+Zeitschriften;de;Quellenmaterial;41
+Postkarten;de;Quellenmaterial;42
+Suppliken;de;Quellenmaterial;43
+Siegel;de;Quellenmaterial;44
+Rechtsdarstellungen;de;Quellenmaterial;45
+Uhrfedebücher;de;Quellenmaterial;46
+Urkunden;de;Quellenmaterial;47
+Tagebücher;de;Quellenmaterial;48
+Karten;de;Quellenmaterial;49
+Akten;de;Quellenmaterial;50
+Letters;en;Quellenmaterial;35
+Historical Accounts;en;Quellenmaterial;36
+Cooking Recipes;en;Quellenmaterial;37
+Manuscripts;en;Quellenmaterial;38
+hearth tax;en;Quellenmaterial;39
+Journal;en;Quellenmaterial;41
+postcards;en;Quellenmaterial;42
+supplications;en;Quellenmaterial;43
+seals;en;Quellenmaterial;44
+images of legal activities;en;Quellenmaterial;45
+legal documents;en;Quellenmaterial;46
+charters;en;Quellenmaterial;47
+Diaries;en;Quellenmaterial;48
+maps;en;Quellenmaterial;49
+records;en;Quellenmaterial;50
+Sammlung;de;Methode;51
+Digitale Edition;de;Methode;52
+Virtuelles Museum;de;Methode;53
+Archiv;de;Methode;54
+Transkription;de;Methode;55
+Datenbank;de;Methode;56
+Collection;en;Methode;51
+Digital Edition;en;Methode;52
+Virtual Museum;en;Methode;53
+Archiv;en;Methode;54
+Transcription;en;Methode;55
+Database;en;Methode;56
+Mittelalter;de;Periode;57
+Middle Ages;en;Periode;57
