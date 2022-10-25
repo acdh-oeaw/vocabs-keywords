@@ -57,7 +57,7 @@ Literature;en;Thema;21
 Didactics;en;Thema;22
 Lyric Poetry;en;Thema;23
 Inscriptions;en;Thema;24
-Author/Novelistliturgy;en;Thema;25
+Author/Novelist;en;Thema;25
 Liturgy;en;Thema;26
 Saints;en;Thema;27
 feasts;en;Thema;28
@@ -107,8 +107,12 @@ Datenbank;de;Methode;56
 Collection;en;Methode;51
 Digital Edition;en;Methode;52
 Virtual Museum;en;Methode;53
-Archiv;en;Methode;54
+Archive;en;Methode;54
 Transcription;en;Methode;55
 Database;en;Methode;56
 Mittelalter;de;Periode;57
 Middle Ages;en;Periode;57
+Neuzeit;de;Periode;58
+Modern Age;en;Periode;58
+Gegenwart;de;Periode;59
+Contemporary;en;Periode;59
