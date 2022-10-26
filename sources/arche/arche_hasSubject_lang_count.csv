@@ -1,0 +1,875 @@
+"value","lang","count"
+pottery fragments,en,11805
+Geschichte,de,2940
+Grundbuch,de,2940
+historic administrative units,en,2650
+GIS,en,2649
+Brief,de,2293
+D.K.BRF,de,2293
+Durchschlag,de,1581
+Typoskript,de,1352
+aerial warfare,en,959
+Second world war,en,959
+Zwischenkriegszeit,de,958
+multilingualism,en,788
+English as a lingua franca,en,787
+interaction,en,787
+interculturality,en,787
+Druck,de,690
+Landgericht,en,591
+District Captaincy,en,590
+pottery,"",359
+Zeitungsartikel,de,354
+D.P.ZTA,de,352
+Bezirksamt,en,318
+part-of-speech tagging,en,317
+lemmatization,en,315
+Mappe,de,296
+D.J.MAP,de,292
+Originalmappe,de,292
+Manuskript,de,256
+Kopie,de,223
+Durchschlag mit handschriftlichen Überarbeitungen,de,208
+Aktenvermerk,de,201
+D.J.AKV,de,201
+Durchschlag mit handschriftlichen Annotationen,de,185
+Typoskript mit handschriftlichen Annotationen,de,184
+Beschluss,de,182
+D.J.BSS,de,182
+County,en,177
+Antrag,de,160
+D.J.ANT,de,160
+word tokenization,en,157
+Typoskript mit handschriftlichen Überarbeitungen,de,155
+Karl Kraus,de,141
+S.F.KRA,de,141
+C.S.PRI,de,135
+Privatanklagedelikt,de,135
+R.F.STR,de,134
+Strafrecht,de,134
+Buchgeschichte,de,126
+Geschichte des Lesens,de,126
+privater Buchbesitz,de,126
+D.J.URT,de,109
+Pensionierung,de,109
+Urteil,de,109
+Benachrichtigung,de,108
+D.J.BEN,de,108
+leisure conversation,en,105
+D.J.PKL,de,100
+Protokoll,de,100
+D.J.PKG,de,95
+Privatanklage,de,95
+D.J.LAD,de,87
+Ladung,de,87
+D.J.STZ,de,84
+Schriftsatz,de,84
+Preßrechtsverstoß,de,81
+T.F.PRE,de,81
+Kingdom,en,79
+D.K.RKS,de,78
+Rückschein,de,78
+Province,en,75
+County (administrative unit),en,71
+C.S.PRE,de,69
+Pressedelikt,de,69
+Pressrecht,de,69
+R.F.PRE,de,69
+amtsfreie Stadt,en,68
+Typoskript mit handschirftlichen Überarbeitungen,de,67
+professional organizational working group discussion,en,65
+Verwaltung,de,65
+Kreis,en,63
+Governmental District,en,62
+professional organizational meeting,en,60
+Mitbestimmung,de,53
+educational workshop discussion,en,50
+R.F.SON,de,50
+Sonstiger Rechtsbereich,de,50
+D.J.ENW,de,49
+Entwurf (jur.),de,49
+Außergerichtliche Erledigung,de,48
+E.F.AGE,de,48
+Umschlag,de,48
+Demokratisierung,de,46
+D.J.UMS,de,44
+D.K.PKT,de,44
+Originalumschlag,de,44
+Postkarte,de,44
+D.J.VRS,de,43
+Verständigung,de,43
+Statutory City,en,42
+D.K.EBS,de,41
+Erhaltsbestätigung,de,41
+D.J.KFS,de,40
+Imperial Circle,en,40
+Kostenfestsetzung,de,40
+professional business meeting,en,40
+professional organizational workshop discussion,en,40
+Berichtigung (Ausgang),de,39
+E.F.AEB,de,39
+tschechoslowak. Staatsdienst,de,39
+Berufungsausführung,de,37
+D.J.BAF,de,37
+D.J.MIT,de,37
+Mitteilung,de,37
+Ehrenbeleidigung,de,35
+professional research/science conversation,en,35
+T.F.EHR,de,35
+Suburb,en,34
+Duchy,en,33
+Beschwerde,de,32
+conversation,en,32
+D.J.BSW,de,32
+D.J.VRN,de,32
+interview,en,32
+meeting,en,32
+panel,en,32
+press conference,en,32
+question-answer session,en,32
+Repression,de,32
+seminar discussion,en,32
+service encounter,en,32
+Vernehmung,de,32
+working group discussion,en,32
+workshop discussion,en,32
+zwischenstaatliche Verhandlung,de,32
+D.K.TGR,de,31
+Telegramm,de,31
+Ausgang unklar,de,30
+educational seminar discussion,en,30
+E.F.AUS,de,30
+professional business service encounter,en,30
+professional research/science interview,en,30
+professional research/science panel,en,30
+professional research/science question-answer session,en,30
+D.J.UBR,de,29
+Gericht,en,29
+Übersetzung,de,29
+D.J.BRG,de,28
+D.J.KLG,de,28
+E.F.VER,de,28
+Klage,de,28
+Verurteilung,de,28
+Auftrag,de,27
+D.J.AUF,de,27
+D.J.ERK,de,26
+D.J.NOT,de,26
+D.J.SFE,de,26
+Erklärung (jur.),de,26
+Lohnforderung,de,26
+Notiz,de,26
+Personalvertretung,de,26
+Ruhestand,de,26
+Vorrückung,de,26
+educational interview,en,25
+educational service encounter,en,25
+educational working group discussion,en,25
+leisure interview,en,25
+professional organizational press conference,en,25
+Staatsbedienstetenorganisationen,de,25
+Berichtigung (jur.),de,24
+Empire,en,24
+zwischenstaatliche Vereinbarung,de,24
+Landeskommissariat,en,23
+Bitte,de,22
+D.J.BIT,de,22
+Strafanzeige,de,22
+Archivrecherchen,"",21
+Beweisantrag,de,21
+Byzantinische Burg,"",21
+Canabae,"",21
+"Die Stunde, Békessy",de,21
+D.J.BWN,de,21
+Forschungsgeschichte,"",21
+Hügelgräber,"",21
+Keramik,"",21
+K.K.STU,de,21
+Lagervorstadt,"",21
+Legionslager,"",21
+Munizipium,"",21
+Nekropole,"",21
+Siedlungstopographie,"",21
+Streik,de,21
+Surveyartefakte,"",21
+Wasserversorgung,"",21
+Beamtenorganisation,de,20
+Druck mit handschriftlichen Annotationen,de,20
+educational conversation,en,20
+professional business panel,en,20
+professional business question-answer session,en,20
+deutschösterr. Regierung,de,19
+K.P.SOZ,de,19
+Sozialdemokratie,de,19
+Berufungsanmeldung,de,18
+Die Fackel,de,18
+D.J.BAN,de,18
+K.K.FAC,de,18
+R.F.ZIV,de,18
+T.F.URV,de,18
+Urheberrechtsverletzung,de,18
+Zivilrecht,de,18
+Anklageschrift,de,17
+D.J.AKS,de,17
+Gewerkschaft,de,17
+Beförderung,de,16
+D.J.ERG,de,16
+Ergänzung,de,16
+Koalitionsfreiheit,de,16
+Bescheid,de,15
+Bestätigung,de,15
+Bevollmächtiger,de,15
+D.J.BSD,de,15
+D.J.BST,de,15
+professional organizational conversation,en,15
+Äußerung,de,14
+D.J.AUG,de,14
+D.J.ERL,de,14
+D.J.KOB,de,14
+D.P.ZTG,de,14
+E.F.FRE,de,14
+E.F.VGL,de,14
+Erlagschein,de,14
+Freispruch,de,14
+High-Bailiwick,en,14
+Kostenaufstellung,de,14
+Principality,en,14
+Seat,en,14
+Vergleich (Ausgang),de,14
+Beleg (jur.),de,13
+D.J.BEL,de,13
+D.J.RNG,de,13
+Ernennung,de,13
+Griechenland,de,13
+historical travel guides,en,13
+Karl Baedeker,en,13
+K.K.MED,de,13
+Lesbos,de,13
+Medienhistorisches,de,13
+Rechnung,de,13
+Berufung,de,12
+C.Z.STR,de,12
+Deckblatt,de,12
+D.J.BRF,de,12
+D.J.DKB,de,12
+D.J.VOL,de,12
+D.J.VRZ,de,12
+educational,en,12
+Grand Duchy,en,12
+K.K.THE,de,12
+leisure,en,12
+professional business,en,12
+professional organizational,en,12
+professional research and science,en,12
+Sonstiger Materialitätstyp,de,12
+Streitige Zivilrechtssache,de,12
+Theater,de,12
+Verzeichnis,de,12
+Vollmacht,de,12
+Ausbildung,de,11
+Bundesländer,de,11
+D.J.ZAS,de,11
+Föderalismus,de,11
+Fotografien,de,11
+Intertextualität,de,11
+Kündigung,de,11
+Literaturwissenschaft,de,11
+Medienwissenschaft,de,11
+Personalkommission,de,11
+Rechtsgeschichte,de,11
+Zeugenaussage,de,11
+Abhandlung,de,10
+Bericht,de,10
+Betriebsrat,de,10
+Burgfrieden,en,10
+D.J.ABH,de,10
+D.J.BER,de,10
+D.J.KON,de,10
+D.J.KSB,de,10
+D.J.ZAT,de,10
+D.J.ZUN,de,10
+E.F.NIC,de,10
+Friedensverhandlungen,de,10
+Kassabestätigung,de,10
+K.K.LIT,de,10
+K.K.SCH,de,10
+Konzept (jur.),de,10
+Literarische Berichtigung,de,10
+Nicht verfolgt,de,10
+"Schober, 15. Juli 1927",de,10
+Staatsangestelltenkammer,de,10
+Ungleichbehandlung,de,10
+Zahlungsauftrag,de,10
+Zurücknahme,de,10
+"Berliner Tageblatt, Kerr, Wolff",de,9
+D.J.LIS,de,9
+D.J.VER,de,9
+D.J.ZEB,de,9
+D.K.RAD,de,9
+Gemeindewahlrecht,de,9
+K.K.BER,de,9
+Lohnverhandlung,de,9
+Militarismus,de,9
+Privatrecht,de,9
+Radiogramm,de,9
+R.F.PRI,de,9
+Typoskript mit handschriftlichen Mittelung,de,9
+Vertrag,de,9
+Zahlungseingangsbestätigung,de,9
+Zeitung,de,9
+Aktennotiz,de,8
+Ansuchen,de,8
+Aufstellung,de,8
+D.J.AFS,de,8
+D.J.AKN,de,8
+D.J.ANS,de,8
+Hofgericht,en,8
+Kommissionsbezirk der Provinzstadt,en,8
+Military Frontier,en,8
+polyglot dictionary,"",8
+"18. Jahrhundert",de,7
+Abrechnung,de,7
+Bibliographie,de,7
+bibliography,en,7
+Crownland,en,7
+D.J.ABR,de,7
+D.J.ANW,de,7
+D.J.VSR,de,7
+D.L,de,7
+Korrespondenz,de,7
+Liste (jur.),de,7
+Literarischer Text,de,7
+Publizistisches Dokument,de,7
+Rechtsnachfolge,de,7
+Sozialgeschichte,de,7
+Tirol,de,7
+Versetzung,de,7
+Versicherung,de,7
+Vertrauensmänner,de,7
+Anfrage,de,6
+Anweisung,de,6
+Aufforderung,de,6
+Berufungsschrift,de,6
+D.J.AFD,de,6
+D.J.ANF,de,6
+D.J.BRS,de,6
+D.J.EIN,de,6
+D.J.GTS,de,6
+D.J.KBS,de,6
+D.J.KLB,de,6
+D.J.RUK,de,6
+D.J.SAT,de,6
+D.K.NCH,de,6
+D.K.UMS,de,6
+E.F.ZUR,de,6
+Einspruch,de,6
+Fotografie (Mat.),de,6
+Free City,en,6
+Gesandtenkonferenz,de,6
+Gutschrift,de,6
+Hofmark,en,6
+K.K.VER,de,6
+Klagebeantwortung,de,6
+Klagrückziehung,de,6
+Kostenbestimmungsbeschluss,de,6
+Nachricht,de,6
+online site database,en,6
+Politische Parteien,de,6
+Republic,en,6
+R.F.VER,de,6
+Staatsangestelltenrat,de,6
+Strafantrag,de,6
+Straferkenntnis,de,6
+Verlagswesen,de,6
+Verwaltungsrecht,de,6
+Zurückziehung der Klage,de,6
+Archduchy,en,5
+C.K.KOR,de,5
+Crown Colony,en,5
+C.Z.UNS,de,5
+Disziplinarrecht,de,5
+D.J.DOS,de,5
+D.J.KSZ,de,5
+Dossier,de,5
+D.P,de,5
+Druck mit handschriftlichen Überarbeitungen,de,5
+E.F.EIN,de,5
+Eingestellt,de,5
+Entente,de,5
+Kassazettel,de,5
+Lebensumstände,de,5
+Memorandum,de,5
+Military District,en,5
+Nachkriegskrise,de,5
+Nationalität,de,5
+Princely County,en,5
+professional business conversation,en,5
+professional research/science working group discussion,en,5
+Provincial Government,en,5
+Systemisierung,de,5
+tschechoslowakische Regierung,de,5
+Unstreitige Zivilrechtssache,de,5
+Vergeltung,de,5
+Zensur,de,5
+Ablehnung,de,4
+Anklage-Kundmachung,de,4
+Anzeige,de,4
+Arbeiterrätin,de,4
+Aufgabeschein,de,4
+Bekanntgabe,de,4
+Berichtigung,de,4
+Bundesverfassung,de,4
+capacity,"",4
+CIDOC CRM,"",4
+Commissary District,en,4
+Condominium,en,4
+data integration,"",4
+District,en,4
+D.J.ABL,de,4
+D.J.AKU,de,4
+D.J.ANZ,de,4
+D.J.BEK,de,4
+D.J.EGE,de,4
+D.J.EXB,de,4
+D.J.GPK,de,4
+D.J.GUT,de,4
+D.J.INF,de,4
+D.J.MEM,de,4
+D.J.MST,de,4
+D.J.REK,de,4
+D.J.SRA,de,4
+D.J.SVA,de,4
+D.J.VFB,de,4
+D.K.AGS,de,4
+D.K.PAW,de,4
+D.S.FOT,de,4
+D.S.PGH,de,4
+Durchschlag mit handschriftlicher Mitteilung,de,4
+E.F.GBU,de,4
+Eingabe,de,4
+Exekutionsbewilligung,de,4
+Fortbildung,de,4
+function,"",4
+Gedächtnisprotokoll,de,4
+Geldbuße,de,4
+Gutachten,de,4
+Imperial Free City,en,4
+Information,de,4
+K.P.NAT,de,4
+Manuskript mit handschriftlichen Annotationen,de,4
+Margraviate,en,4
+Mining Captaincy,en,4
+Nationalsozialismus,de,4
+Neolithic Greece and Anatolia,en,4
+None,en,4
+Phonogrammarchiv,de,4
+Politische Verhältnisse,de,4
+Postanweisung,de,4
+Programmheft,de,4
+Quarter,en,4
+Rekurs,de,4
+Selbstbestimmungsrecht,de,4
+shape,"",4
+Staatsvertrag (St. Germain),de,4
+Strafregisterauszug,de,4
+Strafverfahrensakt,de,4
+T.F.VBR,de,4
+T.F.VVL,de,4
+Typoskript mit handschriftlicher Mitteilung,de,4
+Typoskript mit sonstigen Schreibspuren,de,4
+Verfügungsbogen,de,4
+Vertragsbruch,de,4
+Vertragsverletzung,de,4
+Vikariat,en,4
+Abfertigung,de,3
+Abschrift (lit.),de,3
+Abweisung,de,3
+Autonomie,de,3
+Beamtenrat,de,3
+Beweisabschluss,de,3
+Bürgerkrieg,de,3
+Christlich-sozial,de,3
+Constituent Entity,en,3
+Country,en,3
+C.P.VER,de,3
+Disziplinarausschuss,de,3
+D.J,de,3
+D.J.BWA,de,3
+D.J.ZST,de,3
+D.L.ABS,de,3
+D.L.PMP,de,3
+E.F.ABW,de,3
+E.F.FOR,de,3
+Erpressung,de,3
+Forderung bezahlt,de,3
+Geist (moderner),de,3
+Jude,de,3
+Juristisches Dokument,de,3
+K.P.CHR,de,3
+linked open data,en,3
+Neolithic Greece and Anatolia,"",3
+online site database,"",3
+Pamphlet,de,3
+Papal State,en,3
+Personalpolitik,de,3
+Pfleggericht,en,3
+Politische Organisierung,de,3
+Privatrechtliche Vereinbarung,de,3
+research event,en,3
+Schuldrecht,de,3
+semantic technologies,"",3
+Stadtgericht,en,3
+Tagebuch,de,3
+TEI schema,en,3
+T.F.ERP,de,3
+T.F.SCH,de,3
+Zustellung,de,3
+Akt,de,2
+Aktenübersicht,de,2
+Anklage,de,2
+Anweisun,de,2
+artefact,en,2
+Aufgabeabschnitt,de,2
+Aufruf,de,2
+Auszug,de,2
+Berufungsbescheid,de,2
+Bestechung,de,2
+Bibliography,"",2
+botany,en,2
+Briefausgabe,de,2
+Briefumschlag,de,2
+cave,en,2
+cemetery,en,2
+Commissariat,en,2
+Confederation,en,2
+data integration,en,2
+data sharing,en,2
+Disziplinaranzeige,de,2
+D.J.AKT,de,2
+D.J.ANK,de,2
+D.J.ARF,de,2
+D.J.AUB,de,2
+D.J.AZG,de,2
+D.J.BEB,de,2
+D.J.DAN,de,2
+D.J.EEK,de,2
+D.J.ENT,de,2
+D.J.ERA,de,2
+D.J.ERO,de,2
+D.J.EXA,de,2
+D.J.EXN,de,2
+D.J.KSN,de,2
+D.J.LEU,de,2
+D.J.RMA,de,2
+D.J.RVA,de,2
+D.J.RVS,de,2
+D.J.STG,de,2
+D.J.STZ ,de,2
+D.J.TST,de,2
+D.J.UBS,de,2
+D.J.UBW,de,2
+D.J.VLB,de,2
+D.J.VRF,de,2
+D.J.VRG,de,2
+D.J.ZRW,de,2
+D.J.ZVP,de,2
+D.K.AAS,de,2
+D.K.LIS,de,2
+D.L.GED,de,2
+Druck mit handschriftliche Annotationen/Notate/Notizen,de,2
+D.S.LSZ,de,2
+D.S.PLK,de,2
+Durchschlag mit sonstigen Schreibspuren,de,2
+Edition,de,2
+E.F.AEE,de,2
+E.F.GEL,de,2
+Ehrenerklärung,de,2
+Entschuldigung,de,2
+Entwurf,de,2
+Eröerterung,de,2
+Ersatzanspruch,de,2
+Exekutionsausweis,de,2
+Expensen-Note,de,2
+Falsche Zeugenaussage,de,2
+fieldwork archive,en,2
+Fotografie,de,2
+Fotografie (Obj.),de,2
+Friedrich Austerlitz,de,2
+Fundbearbeitung,"",2
+Gedicht,de,2
+Geldstrafe,de,2
+grave,en,2
+group designations,en,2
+Historical Network Research,en,2
+Holy Roman Empire,en,2
+Hüyücektepe,"",2
+Internationales Postrecht,de,2
+Kostennote,de,2
+Lesezeichen,de,2
+Leumundsnote,de,2
+linked open data,"",2
+Liste,de,2
+Liste (korr.),de,2
+Literarisches Werk,de,2
+lithics,en,2
+Lokalpolitik,de,2
+Luftkrieg,de,2
+Mandat (politisches),de,2
+Manuskript mit handschriftlicher Mitteilung,de,2
+"Mappe, M.S.MAP ",de,2
+Marie Turnowsky,de,2
+Marktgericht,en,2
+material culture,"",2
+Medieval Austria,en,2
+Medieval Germany,en,2
+Medieval Prosopography,en,2
+Middle Ages,en,2
+Mitschrift,de,2
+Mitschriften,de,2
+Occupied Territory,en,2
+Ontologie,de,2
+ontology,en,2
+Order of the Golden Fleece,en,2
+Personalrat,de,2
+Plakat,de,2
+pottery,en,2
+pottery studies,"",2
+Protectorate,en,2
+Protest,de,2
+quarry,en,2
+Rechtsmittelanmeldung,de,2
+Revisionsbeantwortung,de,2
+Revisionsschrift,de,2
+rockshelter,en,2
+settlement,en,2
+S.F.FRI,de,2
+S.F.MAR,de,2
+sights,en,2
+small finds,"",2
+small finds,en,2
+Soziale Fürsorge,de,2
+Squeezes,"",2
+Tagebücher,de,2
+Testament,de,2
+T.F.BES,de,2
+T.F.FZA,de,2
+thesaurus,en,2
+Tonaufnahmen,de,2
+transcription conventions,en,2
+Typoskript mit handschriftlichen Änderungen,de,2
+Überweisung,de,2
+Überweisungsbeschluss,de,2
+Vereins- und Versammlungsfreiheit,de,2
+Verfügung,de,2
+Verlassenschaftsabhandlung,de,2
+Verlautbarung,de,2
+Verrechnung,de,2
+Versammlung,de,2
+Yeldeğirmentepe,"",2
+Zahlungsverpflichtung,de,2
+Zeitun,de,2
+Zurückweisung (jur.),de,2
+Zweiter Weltkrieg,de,2
+"25er-Ausschuss; Fünfundzwanziger-Ausschuss",de,1
+"3D models","",1
+Alfred Kerr,de,1
+Änderung,de,1
+Arabic linguistics,en,1
+archaeological database,en,1
+archaeological sites,en,1
+Auflösung des Vertrags,de,1
+Ausbleiben der Rückzahlung,de,1
+Ausschuss,de,1
+Austrian magazines,en,1
+Austrian media landscape,en,1
+Austrian newspapers,en,1
+Austrian Press Agency,en,1
+Austrian press releases,en,1
+Bauaufnahme,"",1
+Beförderungsdienstfrist,de,1
+Beleidigung,de,1
+Beschlagnahme aufgehoben,de,1
+Bildungsreform,de,1
+Bronze Age sites,en,1
+Bundespolizeidirektion,de,1
+Chalcholithic sites,en,1
+City District,en,1
+Concert of Europe,en,1
+Congress files,en,1
+Congress of Aix-la-chapelle,en,1
+Congress of Laibach,en,1
+Congress of Troppau,en,1
+Congress of Verona,en,1
+Congress of Vienna,en,1
+Congress System,en,1
+controlled vocabulary,"",1
+Co-Principality,en,1
+C.V.VER,de,1
+Darlehen zurückbezahlt,de,1
+data,"",1
+data model,"",1
+Digital Edition,de,1
+digitisation,en,1
+Digitization,"",1
+Diplomatiegeschichte,de,1
+Drohung,de,1
+E.F.AEI,de,1
+E.F.AUF,de,1
+E.F.BES,de,1
+E.F.DAR,de,1
+E.F.ERK,de,1
+E.F.HON,de,1
+E.F.RUE,de,1
+E.F.SCH,de,1
+E.F.SUE,de,1
+E.F.VAU,de,1
+E.F.VSE,de,1
+E.F.ZRW,de,1
+Ehrenkränkung,de,1
+Einigung,de,1
+Electorate,en,1
+Erklärung (Ausgang),de,1
+European Concert of Powers,en,1
+Fachprüfung,de,1
+französische Regierung,de,1
+Fundfotos,"",1
+Fundzeichnungen,"",1
+Gefährliche Drohung,de,1
+Genfer Protokolle,de,1
+Gesteinsproben,"",1
+Glacis,en,1
+GPR,"",1
+Grabungstagebuch,"",1
+Graf Leo Thun-Hohenstein,de,1
+Graf Leo Thun-Hohenstein ,de,1
+Grand Principality,en,1
+Great Powers,en,1
+Gremium,de,1
+Großdeutsche Volkspartei,de,1
+Hans Liebstöckl,de,1
+High Commissariat,en,1
+History of diplomacy,en,1
+Honorar,de,1
+Imre Békessy,de,1
+Indiskretion,de,1
+inscription,en,1
+Inscriptions,"",1
+journalistic prose,en,1
+Karten,"",1
+Klage wegen Forderung,de,1
+Koalitionsrecht,de,1
+Kongressakten,de,1
+Kongress von Aachen,de,1
+Kongress von Laibach,de,1
+Kongress von Troppau,de,1
+Kongress von Verona,de,1
+Konterrevolution,de,1
+Kronos-Verlag,de,1
+Landgraviate,en,1
+language choice,en,1
+language contact,en,1
+language mapping,en,1
+language variation,en,1
+Laufbahn,de,1
+Laufbahn (Folgen),de,1
+lexical resources,en,1
+linguistic landscape,en,1
+Lothar Rübelt,de,1
+Mächtekongress,de,1
+Mächtekonzert,de,1
+Magnetik,"",1
+manual,en,1
+Marken-/Namensrechtsverletzung,de,1
+mark-up,en,1
+mark-up conventions,en,1
+military frontier,en,1
+Military Government,en,1
+Monarchenkongresse,de,1
+Mörtelproben,"",1
+Nachrede,de,1
+Neolithic pottery,en,1
+Neolithic sites,en,1
+open data,en,1
+Opferbereitschaft,de,1
+Oskar Samek,de,1
+Österreich 1849-1860,de,1
+Paul Amadeus Pisk,de,1
+Pauperisierung,de,1
+PeriodO,"",1
+Persönlichkeitsrechtsverletzung,de,1
+Plagiat,de,1
+Politische Maßregelung,de,1
+post-colonial,en,1
+Profilzeichnungen,"",1
+Qualifikationsbeschwerde,de,1
+Richard Lányi,de,1
+Richard Smetana,de,1
+Rückzahlung,de,1
+Rufschädigung,de,1
+Schadensersatz,de,1
+Scheitern der Exekution,de,1
+schema,en,1
+Schloss,en,1
+Schweiz,de,1
+search manual,en,1
+Selbstverwaltung,de,1
+S.F.BEK,de,1
+S.F.BPD,de,1
+S.F.KER,de,1
+S.F.KRO,de,1
+S.F.LIE,de,1
+S.F.PAD,de,1
+S.F.PIS,de,1
+S.F.RIC,de,1
+S.F.RUE,de,1
+S.F.SAM,de,1
+S.F.SME,de,1
+site and monument,en,1
+spelling,en,1
+spelling conventions,en,1
+Staatsbediensteten-Kommission,de,1
+Stefan Padajaunig,de,1
+Sühne,de,1
+tag set,en,1
+TEI,en,1
+TEI-schema,en,1
+T.F.AUS,de,1
+T.F.BEL,de,1
+T.F.DRO,de,1
+T.F.EHK,de,1
+T.F.EUV,de,1
+T.F.GDR,de,1
+T.F.IND,de,1
+T.F.KWF,de,1
+T.F.MNR,de,1
+T.F.NAC,de,1
+T.F.PER,de,1
+T.F.REB,de,1
+T.F.RUF,de,1
+T.F.UNA,de,1
+T.F.UNB,de,1
+T.F.UPL,de,1
+T.F.VER,de,1
+thesaurus,"",1
+TLS,"",1
+transcription,en,1
+Transkribus,de,1
+tschechoslowakisches Militär,de,1
+Umsiedlung,de,1
+Unautorisierte Aufführung,de,1
+Unbefugte Kolportage,de,1
+unknown adm,en,1
+Urheberrechtsverletzung (Bel.),de,1
+Verhaftung,de,1
+Verletzung des Rechts am eigenen Bild,de,1
+Verleumdung,de,1
+Vermessung,"",1
+Versetzung außerhalb Wiens,de,1
+Versteigerung,de,1
+Verwaltungsrechtssache,de,1
+Viennese Dialectological School,en,1
+Voivodeship,en,1
+Wiener Kongress,de,1
+written language in public space,en,1
+XML,en,1
+Zurückweisung,de,1
