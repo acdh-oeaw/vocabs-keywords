@@ -2,7 +2,7 @@
 
 ## 1. Check language tag
 
-The result of the following two actions is stored in `add_file_name`.
+The result of the following two actions is stored in `edited/arche_keywords_edit_1_lang.csv`.
 
 ### 1.1 Include a language tag where this is missing
 
