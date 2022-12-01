@@ -21,3 +21,39 @@ In some cases, it is **ambiguous** to which language a term belongs (for example
 ### 1.2 Correct existing language tags
 
 If a term has a wrong language tag in the `lang` column, **the correct language tag is assigned** in the `correct_lang` column.
+
+## 2. Correct spelling
+
+The result of the following two actions is stored in `edited/arche_keywords_edit_2_spelling.csv`.
+
+### 2.1 Remove trailing spaces
+
+If a keyword has a trailing space, the value `yes` is added to the `remove trailing space` column.
+
+No keywords have leading spaces.
+
+### 2.2 Check if there are any orthographic mistakes
+
+When a keyword contains a form that is orthographically inadmissible in its language, the correct form is added to the `correct to` column.
+
+### 2.3 Adapt to orthographic conventions
+
+The following orthographic conventions are followed:
+* initial lowercase letters unless strictly necessary (this applies, for example, to most of the English words and to German adjectives, even if they appear as the first word in the label)
+    * however, when a noun refers to a specific object or event (_e.g._, the `Congress of ...`), it is written with an initial capital letter
+* UK spelling for English words
+* modern German orthography
+* all words written in full form (for example, `deutschösterreichisch` instead of `deutschösterr.`; this, however, does not apply to acronyms like `OCR`)
+* proper names in full form (_e.g._, `Alfred Kerr` instead of `Kerr`)
+* comma instead of conjunction `and` when two keywords are combined in the same label
+
+If a keyword does not respect any of these orthographic conventions, the correct form is added to the `correct to` column.
+
+### 2.4 Include orthographic variants
+
+As far as possible, spelling variants are included in the `variants` column. These include:
+* US spelling for English words
+* (non-)hyphenated forms (_e.g._, `deutsch-österreichisch` for `deutschösterreichisch`)
+* full forms of acronyms
+
+
