@@ -66,8 +66,19 @@ If a keyword appears only in its plural form, the respective singular form is ad
 
 The result of the following actions is stored in [arche_keywords_edit_4_separate.csv](./arche_keywords_edit_4_separate.csv).
 
-In some cases, a keyword may actually contain several keywords, usually separated by a comma (but also a slash or brackets), such as in `data management, data curation`. In these cases, the column `separate` is filled with the value `yes`.
+In some cases, a keyword may actually contain several keywords, usually separated by a comma (but also a slash or brackets), such as in `data management, data curation`. In these cases, the column `separate` is filled with the value `yes`. Some of the additional keywords might be moved to the `variants` column as different ways of expressing the same concept.
 
 In other cases, a more specific qualification is added to the keyword, to better explain its scope and meaning, for example in `Beleg (jur.)`. In such cases, the main term is recorded in the column `main part`, while the added term in the column `qualification`. This way, it is easier to decide whether to include or exclude the additional qualification for future analyses.
 
 There are also a few cases where the two elements of a keywords need to be combined together. In cases such as `Geist (moderner)`, the adjective was put into brackets to facilitate indexing; however, here the whole form (`moderner Geist`) is preferred and recorded in the column `combine`.
+
+## 5. Additional steps
+
+The result of the following actions is stored in [arche_keywords_edit_5_additional.csv](./arche_keywords_edit_5_additional.csv).
+
+German equivalents for the keywords coming from property `hasCategory` are added.
+
+Keyword with `id` = `011` is deleted, as it contains a long text regarding the VOICE corpus.
+
+At this stage, some rows have the same `id`, since they originate from the separation of single rows that contained more than one keyword, or are the German equivalents of the `hasCategory` keywords. IDs will be adjusted in the next stage.
+
