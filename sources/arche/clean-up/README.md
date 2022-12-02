@@ -2,7 +2,7 @@
 
 ## 1. Check language tag
 
-The result of the following two actions is stored in `edited/arche_keywords_edit_1_lang.csv`.
+The result of the following two actions is stored in [arche_keywords_edit_1_lang.csv](./arche_keywords_edit_1_lang.csv).
 
 ### 1.1 Include a language tag where this is missing
 
@@ -24,7 +24,7 @@ If a term has a wrong language tag in the `lang` column, **the correct language 
 
 ## 2. Correct spelling
 
-The result of the following four actions is stored in `edited/arche_keywords_edit_2_spelling.csv`.
+The result of the following four actions is stored in [arche_keywords_edit_2_spelling.csv](./arche_keywords_edit_2_spelling.csv).
 
 ### 2.1 Remove trailing spaces
 
@@ -58,6 +58,6 @@ As far as possible, spelling variants are included in the `variants` column. The
 
 ## 3. Include singular form
 
-The result of the following action is stored in `edited/arche_keywords_edit_3_number.csv`.
+The result of the following action is stored in [arche_keywords_edit_3_number.csv](./arche_keywords_edit_3_number.csv).
 
 If a keyword appears only in its plural form, the respective singular form is added to the `singular form` column.
