@@ -61,3 +61,13 @@ As far as possible, spelling variants are included in the `variants` column. The
 The result of the following action is stored in [arche_keywords_edit_3_number.csv](./arche_keywords_edit_3_number.csv).
 
 If a keyword appears only in its plural form, the respective singular form is added to the `singular form` column.
+
+## 4. Separate combined keywords
+
+The result of the following actions is stored in [arche_keywords_edit_4_separate.csv](./arche_keywords_edit_4_separate.csv).
+
+In some cases, a keyword may actually contain several keywords, usually separated by a comma (but also a slash or brackets), such as in `data management, data curation`. In these cases, the column `separate` is filled with the value `yes`.
+
+In other cases, a more specific qualification is added to the keyword, to better explain its scope and meaning, for example in `Beleg (jur.)`. In such cases, the main term is recorded in the column `main part`, while the added term in the column `qualification`. This way, it is easier to decide whether to include or exclude the additional qualification for future analyses.
+
+There are also a few cases where the two elements of a keywords need to be combined together. In cases such as `Geist (moderner)`, the adjective was put into brackets to facilitate indexing; however, here the whole form (`moderner Geist`) is preferred and recorded in the column `combine`.
