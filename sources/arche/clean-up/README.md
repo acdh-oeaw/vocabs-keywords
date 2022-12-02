@@ -82,3 +82,10 @@ Keyword with `id` = `011` is deleted, as it contains a long text regarding the V
 
 At this stage, some rows have the same `id`, since they originate from the separation of single rows that contained more than one keyword, or are the German equivalents of the `hasCategory` keywords. IDs will be adjusted in the next stage.
 
+## 6. Remove duplicates
+
+The result of the following actions is stored in [arche_keywords_edit_6_final.csv](./arche_keywords_edit_6_final.csv).
+
+Duplicates are removed.
+
+All rows are assigned a new unique three-digit identifier in column `id`.
