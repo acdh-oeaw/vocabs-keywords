@@ -187,3 +187,43 @@ In some cases, a value may actually contain different ways of expressing the sam
 ### 3.6 Change order
 
 In cases such as `Geist (moderner)`, the adjective was put after the noun to facilitate indexing; however, here the order `moderner Geist` is preferred and recorded in the column `swap_order`.
+
+## 4. Semantic analysis
+
+The file [arche_keywords_previous_analyses.csv](./arche_keywords_previous_analyses.csv) contains a comparison of all the previous analyses performed by Martin Kirnbauer, Daniel Schopper and Seta Štuhec on the semantics of the keywords. The different chronological steps in which these analyses were performed are indicated by the relevant date in the column header (*e.g.*, `2022-07-15`).
+
+All the relevant analyses and comments contained in the folder [hasSubject](https://oeawacat.sharepoint.com/:f:/r/sites/ACDH-CH_i_dsie/Shared Documents/DataPreservation/generalCurationTasks/hasSubject?csf=1&web=1&e=hMujcl) on SharePoint were included (access restricted to ÖAW).
+
+In particular:
+
+* `hasSubject_2022_05_03.txt`: only contains a list of the keywords; not considered
+* `hasSubject_2022_07_15.xlsx`: first analysis performed by Martin Kirnbauer. The results were included in the following columns:
+  * `2022-07-15: Nichtbeachtung weil`
+  * `2022-07-15: Anmerkung`
+  * (The column `Aufnahme weil` of the original spreadsheet was not included since it contained no values)
+* `hasSubject_2022_07_15_Vorgehen.docx`: accompanying Word document where Martin Kirnbauer illustrates the criteria used and proposes a semantic classification of the keywords. Included in:
+  * `2022-07-15: Klassifizierung`
+  * `2022-07-15: Comments by Seta` (further comments added to the document by Seta Štuhec)
+* `hasSubject.xlsx`: analysis performed by Daniel Schopper (last modification of the file on 2022-09-15). Results included in the columns:
+  * `2022-09-15: Category`
+  * `2022-09-15: Action` 
+  * `2022-09-15: Note DS`
+* `hasSubject_2022_09_23.xslx`: further analysis by Seta Štuhec. Results included in the columns:
+  * `2022-09-23: Nichtbeachtung weil`
+  * `2022-09-23: Anmerkung`
+  * (The column `Aufnahme weil` of the original spreadsheet was not included since it contained no values)
+  * The file also contains a proposal for an archaeological vocabulary, contained in the sheet `hasSubject_ARCHAEOLOGY`. The results were included in the columns:
+    * `2022-09-23 hasSubject_ARCHAEOLOGY: include?` (value `archaeology` for terms that should be included in the archaeological vocabulary)
+    * `2022-09-23 hasSubject_ARCHAEOLOGY: notes`
+* `2022-09-29_ARCHEterms.csv`: further analysis by Seta Štuhec. Results included in columns:
+  * `2022-09-29: ARCHEgroup`
+  * `2022-09-29: inARCHEmappedAs`
+  * `2022-09-29: skos:match`
+  * `2022-09-29: Vocabulary`
+  * `2022-09-29: Notes`
+
+* `2022-09-29_ARCHEterms.xlsx`: similar to the previous CSV file, but with some changes
+  * `2022-09-29_xlsx: ARCHEgroup`
+  * `2022-09-29_xlsx: skos:match`
+  * `2022-09-29_xlsx: Vocabulary`
+  * `2022-09-29_xlsx: Notes`
