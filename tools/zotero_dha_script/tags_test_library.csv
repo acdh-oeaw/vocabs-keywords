@@ -1,0 +1,1020 @@
+tag,count
+digital humanities,235
+statistical analysis,211
+overview,183
+#broken_attachments,161
+assessing,139
+collaborating,107
+big data,104
+research,88
+literature,78
+stylometry,76
+analysing,75
+theorizing,67
+infrastructure,65
+web,64
+publishing,57
+text,57
+conceptualising,54
+enriching,53
+analysing qualitatively,52
+communication in learning,52
+communication in scholarship,52
+history,50
+humanities,48
+disseminating,47
+encoding,44
+visualising,40
+tool,37
+virtual research environment,32
+database,31
+anyobject,30
+history teaching,29
+research result,29
+interpretation,28
+computer,27
+method,27
+technology,25
+advocating,24
+annotating,24
+archive,24
+education,24
+modelling,24
+language,23
+philosophy,23
+relational analysis,21
+university,21
+artifact,20
+linguistics,20
+storage,20
+stylistic analysis,20
+music,19
+computer science,17
+event model,17
+content analysis,16
+historiography,16
+machine learning (ml),16
+manuscript,16
+college,15
+image,15
+literary criticism,15
+ontology,15
+teaching,15
+data recognition,14
+extensible markup language (xml),14
+communicating,13
+capturing,12
+identifying,12
+language art,12
+language discipline,12
+metadata,12
+named entity recognition (ner),12
+phd thesis,12
+scholarship,12
+data,11
+graphics industry,11
+learning,11
+library,11
+map,11
+master thesis,11
+policy definition,11
+project management,11
+sheet music,11
+art,10
+book,10
+corpora,10
+creating,10
+digital library,10
+digital scholarly edition,10
+historical source,10
+network analysis,10
+sustainability,10
+text mining,10
+textual criticism,10
+analysing quantitatively,9
+census,9
+editor,9
+electronic publishing,9
+french literature,9
+methodology,9
+topic modelling,9
+academic,8
+archiving,8
+code,8
+data processing,8
+extraction,8
+open access,8
+querying,8
+retrieving,8
+science,8
+semantics,8
+structural analysis,8
+tei,8
+architecture,7
+computational linguistics,7
+crowdsourcing,7
+digitising,7
+discovering,7
+historian,7
+information retrieval (ir),7
+interoperability,7
+new media,7
+person,7
+computer architecture,6
+criticism,6
+culture,6
+data mining,6
+designing,6
+economics,6
+editing,6
+electronic record,6
+information technology,6
+ireland,6
+letter,6
+operating system,6
+optical character recognition (ocr),6
+preservation,6
+project,6
+reading,6
+sharing,6
+social science,6
+social sciences,6
+technological innovation,6
+bibliography,5
+computer network,5
+geography,5
+heml,5
+information retrieval system,5
+information storage system,5
+law,5
+library science,5
+mathematics,5
+media,5
+medicine,5
+musicology,5
+narrative,5
+population,5
+reflecting,5
+religion,5
+sentiment analysis,5
+software,5
+video,5
+web ontology language (owl),5
+wikipedia,5
+wikipedia as subject,5
+academia,4
+american history,4
+archaeology,4
+biology,4
+chemistry,4
+community building,4
+digital preservation,4
+discourse analysis,4
+english,4
+geographic information system (gis),4
+geosciences,4
+google,4
+higher education,4
+imaging,4
+information science,4
+information system,4
+integrated public use microdata series (ipums),4
+interaction,4
+internet,4
+lexical statistics,4
+lode,4
+logic,4
+media studies,4
+medieval,4
+narratology,4
+natural language processing (nlp),4
+office of digital humanities,4
+organising,4
+periodical,4
+physics,4
+political science,4
+publisher,4
+resource description framework (rdf),4
+statistics,4
+ted talk,4
+theology,4
+automating,3
+blogging,3
+business,3
+case study,3
+citing,3
+collating,3
+collection,3
+community,3
+computer industry,3
+conference,3
+converting,3
+cultural heritage,3
+electronic lexica,3
+endowment,3
+english literature,3
+ethnography,3
+future,3
+game,3
+geographic information system,3
+historical spelling,3
+historical studies,3
+historical variant,3
+history matters,3
+hypertext,3
+information access,3
+institution,3
+interface,3
+journal,3
+lexicometry,3
+mass communication,3
+museum,3
+natural language processing,3
+network,3
+network resource,3
+pragmatics,3
+product,3
+programming,3
+psychology,3
+semiotics,3
+simple event model (sem),3
+spelling variant,3
+text analysis,3
+textbook,3
+textometry,3
+theory,3
+usability,3
+virtual team,3
+writing,3
+20th century,2
+abbyy finereader,2
+african american studies,2
+american literature,2
+ancient,2
+anthropology,2
+application,2
+archivist,2
+artificial intelligence,2
+authorship,2
+book history,2
+cataloguing,2
+civil war,2
+civilisation,2
+classic,2
+clustering,2
+collecting,2
+collocating,2
+comic,2
+communication studies,2
+computer software,2
+computer vision,2
+consumer,2
+cooccurrence,2
+coreference,2
+corpus,2
+creativity,2
+critique,2
+cultural studies,2
+customising,2
+data analysis,2
+data collection,2
+dictionary,2
+digital communication,2
+digital edition,2
+digital history,2
+distant reading,2
+document clustering,2
+documenting,2
+edition sciences,2
+electronic book,2
+electronic dissertation,2
+electronic thesis,2
+english poetry,2
+entertainment,2
+epigraphy,2
+ethnic studies,2
+event ontology,2
+event-model-f,2
+eventsml,2
+evolution,2
+experiment,2
+fiction,2
+film/movie,2
+French literature,2
+gathering,2
+genetic criticism,2
+genetic edition,2
+german literature,2
+handwriting recognition (htr),2
+heritage,2
+historical document,2
+historical geographic information system (hgis),2
+historical geography,2
+image processing,2
+information resources management (irm),2
+inspiration,2
+interdisciplinarity,2
+irish poetry,2
+italian philology,2
+keynote,2
+labour,2
+latin,2
+layout analysis,2
+leadership,2
+literacy,2
+logometry,2
+management,2
+mass media,2
+memory,2
+name,2
+neoliberalism,2
+onomastics,2
+open source,2
+optical data processing,2
+palaeography,2
+paleography,2
+pedagogy,2
+poetry,2
+probability,2
+retrieval,2
+review,2
+review article,2
+rhetoric,2
+romance philology,2
+scholarly publishing,2
+scottish poetry,2
+search engine,2
+simulating,2
+social media,2
+social network,2
+sociology,2
+speech,2
+standard,2
+standard generalized markup language (sgml),2
+student,2
+studying,2
+survey,2
+system administration,2
+tagging,2
+teaching resource,2
+temporal relation,2
+text criticism,2
+text encoding,2
+text processing,2
+textual transmission,2
+transcribing,2
+trust,2
+university press,2
+welsh poetry,2
+widescreen,2
+wikipedia as model,2
+world history,2
+zotero,2
+19th century,1
+3d,1
+academic librarian,1
+academic library,1
+access control,1
+accessing,1
+active learning,1
+activism,1
+address book,1
+administration,1
+aesthetic,1
+aesthetic creation,1
+african american,1
+age,1
+agriculture,1
+algorithm analysis,1
+algorithm design,1
+american,1
+analytics,1
+animating,1
+annotation design,1
+annotation system,1
+app,1
+applied science,1
+apportionment,1
+archaelogical site,1
+archetype,1
+architect,1
+architectural history,1
+archival studies,1
+art history,1
+artificial intelligence (ai),1
+artist book,1
+arts,1
+aspect analysis,1
+attitude,1
+audience,1
+audio,1
+australian literature,1
+authenticating,1
+author,1
+authority,1
+authorship attribution,1
+autocad,1
+autolisp,1
+automation,1
+awakening consciousness,1
+award,1
+awareness,1
+bestiary,1
+bibliographical control,1
+bibliography methodology,1
+bibliography theory,1
+biography,1
+blog,1
+body,1
+bombardement,1
+book review,1
+british,1
+browsing,1
+brute force,1
+brute force method,1
+building,1
+business case,1
+business cycle,1
+business process,1
+byzantine,1
+cached resources,1
+cad,1
+calendar of irish chancery letters (circle),1
+campaign finance,1
+categorising,1
+census document,1
+chancery letter,1
+change over time,1
+character discourse,1
+character in literature,1
+characteristics in literature,1
+christian,1
+cidoc-crm,1
+city,1
+city planning,1
+civil rights,1
+classical,1
+classical philology,1
+climate change,1
+clinical document architecture (cda),1
+clipping,1
+cluster mining,1
+clustering algorithm,1
+co-located group,1
+coauthoring,1
+codex,1
+coding theory,1
+cognate,1
+collaborative creation,1
+collaborative interpretation,1
+collaborative work,1
+collector,1
+college student,1
+commerce,1
+commitment building,1
+communication behaviour,1
+communication process,1
+community college,1
+community grid,1
+comparing,1
+competitive intelligence,1
+computation and language,1
+computational method,1
+computer application,1
+computer graphics,1
+computer mediated communication,1
+computer science method,1
+computer statistics,1
+computer supported cooperative work (cscw),1
+computer-aided architectural design (caad),1
+computer-assisted instruction (cai),1
+computer-mediated communication (cmc),1
+computer-supported cooperative work (cscw),1
+computers and society,1
+conceptual art,1
+conditional random field (crf),1
+connected age,1
+connecting,1
+connectionism,1
+contextual exploration,1
+contextual feature,1
+convolutional neural network,1
+cooperative working,1
+coordination issue,1
+core number,1
+corpus linguistics,1
+corpus stylistics,1
+correlate,1
+cosine similarity,1
+counter culture,1
+courtly literature,1
+courtly poetry,1
+critical thinking,1
+cultural evolution,1
+cultural relation,1
+curator,1
+current survey,1
+curriculum,1
+curriculum vitae (cv),1
+cyber infrastructure,1
+data extraction,1
+data federation,1
+data integration,1
+data modelling,1
+data visualisation,1
+data visualisation tool,1
+dataflow,1
+dead sea scroll,1
+death,1
+death penalty,1
+deception detection,1
+delaunay triangulation,1
+delpher,1
+dense region,1
+design,1
+design implication,1
+design theory,1
+designer,1
+desktop application,1
+developing,1
+development procedure,1
+dialect,1
+dialogue,1
+digital book,1
+digital classicist,1
+digital curation,1
+digital ecosystem,1
+digital forensics,1
+digital lexicography,1
+digital resource,1
+digital scholarly work,1
+digital scholarship,1
+dimensionality reduction,1
+discrete mathematics,1
+distance measure,1
+distributed groupware,1
+distributed project,1
+distributed research team,1
+distributed work,1
+document analysis,1
+document classification,1
+document image,1
+document layout,1
+document preparation,1
+document processing,1
+documentary information,1
+domain specific language,1
+downloadable content (dlc),1
+dublin,1
+e-journal,1
+early modern age,1
+earth sciences,1
+economic change,1
+economic condition,1
+edit distance,1
+educational approach,1
+educational interdisciplinary approach,1
+educational policy,1
+egyptology,1
+election,1
+electrical engineering,1
+electronic,1
+electronic information,1
+electronic mail,1
+electronic periodical,1
+electronic reader,1
+electronic resource,1
+electronics,1
+emergence,1
+emotion,1
+encoding scheme,1
+encyclopaedia,1
+engineering,1
+english as second language,1
+english love story,1
+environmentalism,1
+error analysis,1
+europeana,1
+evaluating,1
+event,1
+eXist knowledge base,1
+expert system,1
+expression,1
+family,1
+feature,1
+feature extraction,1
+federal government,1
+fiction technique,1
+field study,1
+flight,1
+foreign language study,1
+forensic science,1
+formative evaluation,1
+four courts,1
+francophone studies,1
+francophonie,1
+frantext,1
+free market,1
+freedom,1
+freedom of expression,1
+freedom of speech,1
+french teacher,1
+french writing,1
+frequent pattern (fp),1
+frequent pattern mining (fpm),1
+frequent term,1
+fugitive slave,1
+functional requirements for bibliographic records (frbr),1
+functional systems linguistics,1
+gadget,1
+gender,1
+gender studies,1
+generation,1
+geodh,1
+german studies,1
+global management,1
+globalisation,1
+google book search,1
+google inc,1
+google scholar,1
+gospel,1
+government,1
+government information,1
+graph database,1
+graph invariant,1
+graphics,1
+greasemonkey,1
+greek,1
+grid computing,1
+groupware,1
+gubernatorial campaign,1
+gutenberg project,1
+h264,1
+hack,1
+handwriting,1
+handwritten information,1
+hardware,1
+header,1
+hierarchical agglomerative clustering (hac),1
+hierarchical agglomerative clustering algorithm,1
+hip hop,1
+historical accuracy,1
+historical background,1
+historical census,1
+historical corpus,1
+historical document processing,1
+history project,1
+history study,1
+human geography,1
+human-computer interaction (hci),1
+humanism,1
+humanistic,1
+humanities computing,1
+humanity,1
+hypercity,1
+hyperdocument,1
+hypertext markup language (html),1
+hypothesis,1
+image registration,1
+image scanner,1
+imitating,1
+imitation,1
+immunology,1
+impeachment,1
+incunabulum,1
+indexing service,1
+indians,1
+industry foundation class (ifc),1
+information extraction,1
+information management,1
+information mining,1
+information policy,1
+information process,1
+information resource,1
+information retrieval,1
+information retrieval system (irs),1
+information storage,1
+information visualisation,1
+information-rich virtual environment (irve),1
+innovation,1
+integration,1
+intellectual,1
+intellectual collaboration,1
+intellectual property (ip),1
+intellectual property analysis,1
+intellectual structure,1
+interconnection,1
+interdisciplinary approach,1
+interdisciplinary research team,1
+intermediate concept,1
+interpersonal relation,1
+intertextuality,1
+introduction,1
+irish,1
+isolation,1
+italian language,1
+italian literature,1
+italian philology study and teaching,1
+jane austen technique,1
+java,1
+java graphical authorship attribution program (jgaap),1
+javascript (js),1
+javascript object notation (json),1
+jewish studies,1
+journal publishing,1
+journalism,1
+journeys in literature,1
+k-means clustering algorithm,1
+kaptur,1
+knight poetry,1
+knowledge community,1
+knowledge mining,1
+labelling,1
+labour history,1
+language change,1
+language criticism,1
+language theory,1
+legal history,1
+lexical item,1
+lexical studies,1
+lexicon,1
+librarian,1
+library project,1
+library use,1
+life cycle,1
+lifestyle,1
+linear discriminant analysis (lda),1
+linguistic analysis,1
+linguistic category,1
+linguistic change,1
+linguistic corpus,1
+literary semiotics,1
+literary studies,1
+literary transformation,1
+literary transmission,1
+literature analysis,1
+literature motif,1
+literature publishing,1
+literature theme,1
+little bits,1
+locality sensitive hashing (lsh),1
+longitudinal case study,1
+maker,1
+maker movement,1
+manual,1
+manuscript transmission,1
+map server,1
+map-based online system,1
+mapping,1
+markov chains,1
+markup language,1
+marriage,1
+massively multiplayer online game (mmog),1
+maximum entropy model (mem),1
+medieval civilization,1
+medieval document,1
+medieval england (1066-1485),1
+medieval literature,1
+medieval studies,1
+meeting support tool,1
+message,1
+metamodel,1
+middle english,1
+middle english period,1
+middle high german,1
+mind-mapping,1
+mission,1
+missionary,1
+mobile device,1
+modern,1
+modern poetry,1
+modernism,1
+multimedia,1
+multimedia information system (mis),1
+multiplayer game,1
+multispectral,1
+music encoding initiative (mei),1
+music genre,1
+music style,1
+named event,1
+national historical geographic information system,1
+neighbourhood graph,1
+network science,1
+networking,1
+neural network,1
+news,1
+newspaper,1
+obituary,1
+occupational mobility,1
+oceania,1
+office,1
+omeka,1
+online collection,1
+online discussion,1
+online game,1
+online resource,1
+open educational resource (oer),1
+opening keynote,1
+ordering principle,1
+organisational culture,1
+organisational structure,1
+outline of american history,1
+outsourcing,1
+palimpsest,1
+paper,1
+paper quality,1
+paradigmatic relation,1
+parameter,1
+parody,1
+patchwork,1
+patent information,1
+pathfinder network,1
+pattern clustering,1
+pattern finding,1
+pattern mining,1
+pattern recognition,1
+person name disambiguation,1
+personal digital assistant (pda),1
+philology,1
+phonetic alignment,1
+phonetic similarity,1
+photograph,1
+photography,1
+physical book,1
+planning,1
+play,1
+plot,1
+point cloud,1
+police report,1
+political campaign,1
+politics,1
+polynomial distribution,1
+popular culture,1
+population survey,1
+presentation,1
+principal component analysis (pca),1
+print,1
+print culture,1
+privacy,1
+production blocking,1
+project gutenberg,1
+proofreading project,1
+publication,1
+publication list,1
+publishing tool,1
+punctuation,1
+qualitative studies,1
+query expansion,1
+query term,1
+question,1
+r,1
+race,1
+raising awareness,1
+rap,1
+real-time,1
+recession,1
+record search,1
+record-keeping,1
+recovery,1
+recurrent neural network,1
+recurrent neural network (rnn),1
+reform,1
+registration algorithm,1
+regular expression (regex),1
+relational archaeology,1
+relationship,1
+remix,1
+remote sensing,1
+reorganisation,1
+repository,1
+requirements analysis,1
+research data managment,1
+research design,1
+research system,1
+resource sharing,1
+responsibility,1
+retail,1
+reuse,1
+revolution,1
+root concept,1
+sanskrit literature,1
+scholarly communication,1
+school,1
+science communication,1
+science fiction,1
+scientific community,1
+scientific transformation,1
+screen reading,1
+secondary education,1
+semantic class,1
+semantic relation,1
+semantic spatial web,1
+semantic web,1
+semi-supervised learning,1
+sensible city,1
+sentence,1
+sentence length,1
+shakespeare story dataset,1
+shakespearean drama,1
+short messaging service (sms),1
+simulation,1
+slave,1
+slavery,1
+sociability,1
+social aspect,1
+social aspects,1
+social condition,1
+social edition,1
+social tie,1
+sociolinguistics,1
+south,1
+space,1
+spatial,1
+spatial humanities,1
+spatial information,1
+spatial information geographic information system (sigis),1
+special library,1
+speculation,1
+spelling,1
+stand-off markup,1
+stemmatology,1
+stop words,1
+storage media,1
+storytelling,1
+string similarity,1
+structural features,1
+study of hebrew,1
+style,1
+stylistics,1
+subscription,1
+success,1
+surface,1
+suspended quotation,1
+system design,1
+system theory,1
+taxonomic structure,1
+teacher,1
+tenure,1
+term extraction,1
+term frequency - inverse document frequency (tf - idf),1
+tesseract,1
+text annotation,1
+text commentary,1
+text editing,1
+text encoding initiative (tei),1
+text genesis,1
+text material,1
+text-based scholarship,1
+textual congress,1
+textual editing,1
+textual handbook,1
+textual issues,1
+thesis,1
+third place,1
+tool development,1
+toponym disambiguation,1
+training set construction,1
+transcription for paleographical and editorial notation (t-pen),1
+transfer learning,1
+transgender,1
+translation,1
+transsexual,1
+transtextuality,1
+travel writing,1
+travelling,1
+treasures,1
+trend,1
+trial,1
+trusted repository,1
+twitter,1
+united states customs to 1775,1
+united states social life to 1775,1
+us census,1
+usage,1
+user,1
+user interface (ui),1
+user testing,1
+userscript,1
+virtual object system (vos),1
+virtual organisation,1
+virtual visitor,1
+virtual working,1
+visual aid,1
+vocabulary,1
+vulgate,1
+watermark,1
+web development,1
+web-mapping,1
+website,1
+white australia,1
+wiki,1
+women author,1
+women's history,1
+womens studies,1
+word,1
+word association,1
+word class,1
+workflow,1
+working method,1
+written communication,1
+youth,1
